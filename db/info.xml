@@ -1,0 +1,2472 @@
+﻿<alphabounceinfo>
+	
+	<cas type="Planet" frame="soupaline" label="Soupaline" x="-7" y="1" taille="4" />
+	<cas type="Planet" frame="lycans" label="Lycans" x="1" y="14" taille="16" />
+	<cas type="Planet" frame="tiboon" label="Tiboon" x="9" y="-10" taille="4" />
+	<cas type="Planet" frame="spignysos" label="Spignysos" x="-36" y="-10" taille="10" />
+	<cas type="Planet" frame="karbonisdead" label="Karbonis" x="27" y="6" taille="8" />
+	<cas type="Planet" frame="moltear" label="Moltear" x="-55" y="34" taille="14" />
+	<cas type="Planet" frame="balixt" label="Balixt" x="-9" y="-39" taille="10" />
+	<cas type="Planet" frame="douriv" label="Douriv" x="-84" y="-102" taille="14" />
+	<cas type="Planet" frame="senegarde" label="Senegarde" x="93" y="48" taille="10" />
+	<cas type="Planet" frame="pofiak" label="Pofiak" x="-18" y="84" taille="6" />
+	<cas type="Planet" frame="dtritus" label="D-Tritus" x="247" y="-44" taille="4" />
+	<cas type="Planet" frame="cilorile" label="Cilorile" x="78" y="-23" taille="10" />
+	<cas type="Planet" frame="holovan" label="Holovan" x="-150" y="111" taille="12" />
+	<cas type="Planet" frame="samosa" label="Samosa" x="412" y="93" taille="22" />
+	<cas type="Planet" frame="khorlan" label="Khorlan" x="180" y="-191" taille="10" />
+	<cas type="Planet" frame="nalikors" label="Nalikors" x="67" y="153" taille="8" />
+	<cas type="Planet" frame="grimorn" label="Grimorn" x="81" y="-122" taille="8" />
+	<cas type="Planet" frame="taciturne" label="Taciturne" x="192" y="115" taille="6" />
+	<cas type="Planet" frame="chagarina" label="Chagarina" x="-320" y="-574" taille="8" />
+	
+	<cas type="Asteroide" x="-90" y="-10" minerai="31" />
+	<cas type="Asteroide" x="-89" y="-8" minerai="0" />
+	<cas type="Asteroide" x="-89" y="-5" minerai="95" />
+	<cas type="Asteroide" x="-89" y="-3" minerai="53" />
+	<cas type="Asteroide" x="-88" y="-21" minerai="1" />
+	<cas type="Asteroide" x="-87" y="-20" minerai="6" />
+	<cas type="Asteroide" x="-87" y="-13" minerai="17" />
+	<cas type="Asteroide" x="-87" y="-9" minerai="86" />
+	<cas type="Asteroide" x="-87" y="-6" minerai="57" />
+	<cas type="Asteroide" x="-87" y="-3" minerai="37" />
+	<cas type="Asteroide" x="-86" y="-19" minerai="52" />
+	<cas type="Asteroide" x="-84" y="-28" minerai="59" />
+	<cas type="Asteroide" x="-83" y="-35" minerai="5" />
+	<cas type="Asteroide" x="-83" y="-22" minerai="38" />
+	<cas type="Asteroide" x="-83" y="-14" minerai="43" />
+	<cas type="Asteroide" x="-83" y="-12" minerai="37" />
+	<cas type="Asteroide" x="-82" y="-38" minerai="6" />
+	<cas type="Asteroide" x="-82" y="-29" minerai="11" />
+	<cas type="Asteroide" x="-82" y="-24" minerai="45" />
+	<cas type="Asteroide" x="-82" y="-16" minerai="16" />
+	<cas type="Asteroide" x="-82" y="-10" minerai="13" />
+	<cas type="Asteroide" x="-82" y="-7" minerai="24" />
+	<cas type="Asteroide" x="-82" y="-4" minerai="24" />
+	<cas type="Asteroide" x="-81" y="-32" minerai="5" />
+	<cas type="Asteroide" x="-81" y="-28" minerai="12" />
+	<cas type="Asteroide" x="-81" y="-13" minerai="45" />
+	<cas type="Asteroide" x="-80" y="-36" minerai="5" />
+	<cas type="Asteroide" x="-80" y="-25" minerai="6" />
+	<cas type="Asteroide" x="-80" y="-20" minerai="79" />
+	<cas type="Asteroide" x="-79" y="-39" minerai="1" ><remarque>Maison fermée a clef</remarque></cas>
+	<cas type="Asteroide" x="-79" y="-33" minerai="73" />
+	<cas type="Asteroide" x="-79" y="-32" minerai="94" />
+	<cas type="Asteroide" x="-79" y="-31" minerai="97" />
+	<cas type="Asteroide" x="-79" y="-25" minerai="9" />
+	<cas type="Asteroide" x="-78" y="-44" minerai="75" />
+	<cas type="Asteroide" x="-78" y="-39" minerai="4" />
+	<cas type="Asteroide" x="-78" y="-38" minerai="4" />
+	<cas type="Asteroide" x="-78" y="-34" minerai="28" />
+	<cas type="Asteroide" x="-78" y="-21" minerai="72" />
+	<cas type="Asteroide" x="-78" y="-17" minerai="22" />
+	<cas type="Asteroide" x="-78" y="-15" minerai="80" />
+	<cas type="Asteroide" x="-77" y="-47" minerai="21" />
+	<cas type="Asteroide" x="-77" y="-38" minerai="0" />
+	<cas type="Asteroide" x="-77" y="-37" minerai="9" />
+	<cas type="Asteroide" x="-77" y="-33" minerai="14" />
+	<cas type="Asteroide" x="-77" y="-27" minerai="9" />
+	<cas type="Asteroide" x="-77" y="-17" minerai="33" />
+	<cas type="Asteroide" x="-76" y="-50" minerai="57" />
+	<cas type="Asteroide" x="-76" y="-42" minerai="0" />
+	<cas type="Asteroide" x="-76" y="-38" minerai="0" />
+	<cas type="Asteroide" x="-76" y="-37" minerai="0" />
+	<cas type="Asteroide" x="-76" y="-36" minerai="7" />
+	<cas type="Asteroide" x="-76" y="-31" minerai="2" />
+	<cas type="Asteroide" x="-76" y="-13" minerai="3" />
+	<cas type="Asteroide" x="-75" y="-39" minerai="35" />
+	<cas type="Asteroide" x="-75" y="-35" minerai="36" />
+	<cas type="Asteroide" x="-75" y="-24" minerai="39" />
+	<cas type="Asteroide" x="-75" y="-14" minerai="33" />
+	<cas type="Asteroide" x="-74" y="-42" minerai="6" />
+	<cas type="Asteroide" x="-74" y="-41" minerai="30" />
+	<cas type="Asteroide" x="-74" y="-40" minerai="26" />
+	<cas type="Asteroide" x="-74" y="-35" minerai="71" />
+	<cas type="Asteroide" x="-74" y="-31" minerai="33" />
+	<cas type="Asteroide" x="-73" y="-46" minerai="65" />
+	<cas type="Asteroide" x="-73" y="-39" minerai="54" />
+	<cas type="Asteroide" x="-73" y="-37" minerai="8" />
+	<cas type="Asteroide" x="-73" y="-32" minerai="1" />
+	<cas type="Asteroide" x="-73" y="-31" minerai="14" />
+	<cas type="Asteroide" x="-73" y="-26" minerai="1" />
+	<cas type="Asteroide" x="-72" y="-42" minerai="0" />
+	<cas type="Asteroide" x="-72" y="-40" minerai="6" />
+	<cas type="Asteroide" x="-72" y="-38" minerai="11" />
+	<cas type="Asteroide" x="-72" y="-36" minerai="25" />
+	<cas type="Asteroide" x="-72" y="-34" minerai="0" />
+	<cas type="Asteroide" x="-72" y="-14" minerai="52" />
+	<cas type="Asteroide" x="-71" y="-44" minerai="60" />
+	<cas type="Asteroide" x="-71" y="-41" minerai="30" />
+	<cas type="Asteroide" x="-71" y="-40" minerai="32" />
+	<cas type="Asteroide" x="-71" y="-39" minerai="85" />
+	<cas type="Asteroide" x="-71" y="-35" minerai="11" />
+	<cas type="Asteroide" x="-70" y="-42" minerai="71" />
+	<cas type="Asteroide" x="-70" y="-32" minerai="79" />
+	<cas type="Asteroide" x="-69" y="-48" minerai="74" />
+	<cas type="Asteroide" x="-69" y="-44" minerai="10" />
+	<cas type="Asteroide" x="-69" y="-33" minerai="31" />
+	<cas type="Asteroide" x="-68" y="-52" minerai="58" />
+	<cas type="Asteroide" x="-68" y="-42" minerai="63" />
+	<cas type="Asteroide" x="-68" y="-41" minerai="94" />
+	<cas type="Asteroide" x="-68" y="-39" minerai="56" />
+	<cas type="Asteroide" x="-68" y="-37" minerai="79" />
+	<cas type="Asteroide" x="-68" y="-36" minerai="17" />
+	<cas type="Asteroide" x="-67" y="-62" minerai="1" />
+	<cas type="Asteroide" x="-67" y="-46" minerai="7" />
+	<cas type="Asteroide" x="-67" y="-44" minerai="31" />
+	<cas type="Asteroide" x="-66" y="-50" minerai="48" />
+	<cas type="Asteroide" x="-66" y="-38" minerai="18" />
+	<cas type="Asteroide" x="-65" y="-48" minerai="5" />
+	<cas type="Asteroide" x="-64" y="-56" minerai="46"/>
+	<cas type="Asteroide" x="-64" y="-52" minerai="2" />
+	<cas type="Asteroide" x="-64" y="-46" minerai="85" />
+	<cas type="Asteroide" x="-64" y="-42" minerai="70" />
+	<cas type="Asteroide" x="-62" y="-46" minerai="1" />
+	<cas type="Asteroide" x="-61" y="-65" minerai="18" />
+	<cas type="Asteroide" x="-61" y="-56" minerai="23" />
+	<cas type="Asteroide" x="-61" y="-48" minerai="4" />
+	<cas type="Asteroide" x="-58" y="-52" minerai="78" />
+	<cas type="Asteroide" x="-55" y="-68" minerai="1" />
+	<cas type="Asteroide" x="-49" y="-72" minerai="30" />
+	<cas type="Asteroide" x="-44" y="-77" minerai="60" />
+	<cas type="Asteroide" x="-42" y="-81" minerai="19" />
+	<cas type="Asteroide" x="-39" y="-84" minerai="30" />
+	<cas type="Asteroide" x="-36" y="-84" minerai="1" />
+	<cas type="Asteroide" x="-33" y="-90" minerai="13" />
+	<cas type="Asteroide" x="-32" y="-91" minerai="25" />
+	<cas type="Asteroide" x="-32" y="-81" minerai="21" />
+	<cas type="Asteroide" x="-31" y="-95" minerai="21" />
+	<cas type="Asteroide" x="-31" y="-92" minerai="26" />
+	<cas type="Asteroide" x="-29" y="-98" minerai="6"/>
+	<cas type="Asteroide" x="-29" y="-92" minerai="5" />
+	<cas type="Asteroide" x="-28" y="-95" minerai="11" />
+	<cas type="Asteroide" x="-26" y="-99" minerai="2" />
+	<cas type="Asteroide" x="-24" y="-97" minerai="93" />
+	<cas type="Asteroide" x="-23" y="-92" minerai="87" />
+	<cas type="Asteroide" x="-21" y="-98" minerai="21" />
+	<cas type="Asteroide" x="-19" y="-102" minerai="96" />
+	<cas type="Asteroide" x="-18" y="-93" minerai="3" />
+	<cas type="Asteroide" x="-17" y="104" />
+	<cas type="Asteroide" x="-16" y="-97" minerai="14" />
+	<cas type="Asteroide" x="-13" y="-102" minerai="14" />
+	<cas type="Asteroide" x="-7" y="-102" minerai="8" />
+	<cas type="Asteroide" x="-6" y="-102" minerai="27" />
+	<cas type="Asteroide" x="-3" y="-102" minerai="5" />
+	<cas type="Asteroide" x="1" y="-102" minerai="41" />
+	<cas type="Asteroide" x="3" y="-102" minerai="33" />
+	<cas type="Asteroide" x="5" y="-102" minerai="39" />
+	<cas type="Asteroide" x="6" y="-102" minerai="32" />
+	<cas type="Asteroide" x="10" y="-107" minerai="34" />
+	<cas type="Asteroide" x="10" y="-102" minerai="79" />
+	<cas type="Asteroide" x="11" y="-102" minerai="2" />
+	<cas type="Asteroide" x="12" y="-102" minerai="72" />
+	<cas type="Asteroide" x="13" y="-102" minerai="7" />
+	<cas type="Asteroide" x="20" y="-102" minerai="0" />
+	<cas type="Asteroide" x="28" y="-111" minerai=""/>
+	<cas type="Asteroide" x="28" y="-109" minerai="52" />
+	<cas type="Asteroide" x="29" y="-102" minerai="83" />
+	<cas type="Asteroide" x="30" y="-107" minerai="19" />
+	<cas type="Asteroide" x="32" y="-102" minerai="0" />
+	<cas type="Asteroide" x="34" y="-110" minerai="40" />
+	<cas type="Asteroide" x="34" y="-107" minerai="53" />
+	<cas type="Asteroide" x="34" y="-102" minerai="61" />
+	<cas type="Asteroide" x="35" y="-108" minerai="91" />
+	<cas type="Asteroide" x="35" y="-107" minerai="40" />
+	<cas type="Asteroide" x="35" y="-103" minerai="26" />
+	<cas type="Asteroide" x="36" y="-107" minerai="0" />
+	<cas type="Asteroide" x="37" y="-103" minerai="71" />
+	<cas type="Asteroide" x="38" y="-104" minerai="31" />
+	<cas type="Asteroide" x="39" y="-103" minerai="0" />
+	<cas type="Asteroide" x="39" y="-102" minerai="6" />
+	<cas type="Asteroide" x="39" y="-100" minerai="45" />
+	<cas type="Asteroide" x="40" y="-103" minerai="0" />
+	<cas type="Asteroide" x="40" y="-102" minerai="55" />
+	<cas type="Asteroide" x="41" y="-103" minerai="11" />
+	<cas type="Asteroide" x="42" y="-103" minerai="4" />
+	<cas type="Asteroide" x="43" y="-96" minerai="0" />
+	<cas type="Asteroide" x="44" y="-104" minerai="0" />
+	<cas type="Asteroide" x="45" y="-103" minerai="59" />
+	<cas type="Asteroide" x="46" y="-104" minerai="36" />
+	<cas type="Asteroide" x="46" y="-99" minerai="65" />
+	<cas type="Asteroide" x="49" y="-105" minerai="93" />
+	<cas type="Asteroide" x="49" y="-104" minerai="0" />
+	<cas type="Asteroide" x="49" y="-103" minerai="0" />
+	<cas type="Asteroide" x="49" y="-101" minerai="" />
+	<cas type="Asteroide" x="50" y="-102" minerai="14" />
+	<cas type="Asteroide" x="50" y="-101" minerai="66" />
+	<cas type="Asteroide" x="51" y="-105" minerai="0" />
+	<cas type="Asteroide" x="51" y="-101" minerai="90" />
+	<cas type="Asteroide" x="52" y="-101" minerai="15" />
+	<cas type="Asteroide" x="52" y="-99" minerai="58" />
+	<cas type="Asteroide" x="53" y="-101" minerai="24" />
+	<cas type="Asteroide" x="54" y="-101" minerai="47" />
+	<cas type="Asteroide" x="55" y="-101" minerai="1" />
+	<cas type="Asteroide" x="57" y="-100" minerai="26" />
+	<cas type="Asteroide" x="57" y="-99" minerai="72" />
+	<cas type="Asteroide" x="58" y="-104" minerai="58" />
+	<cas type="Asteroide" x="58" y="-103" minerai="63" />
+	<cas type="Asteroide" x="58" y="-102" minerai="0" />
+	<cas type="Asteroide" x="59" y="-108" minerai="2" />
+	<cas type="Asteroide" x="59" y="-107" minerai="6" ><remarque>Kimper en [-104][59] pour 1660 minerais</remarque></cas>
+	<cas type="Asteroide" x="61" y="-99" minerai="6" />
+	<cas type="Asteroide" x="62" y="-105" minerai="25" />
+	<cas type="Asteroide" x="62" y="-97" minerai="29" />
+	<cas type="Asteroide" x="64" y="-101" minerai="5" />
+	<cas type="Asteroide" x="64" y="-100" minerai="1" />
+	<cas type="Asteroide" x="65" y="-105" minerai="0" />
+	<cas type="Asteroide" x="65" y="-102" minerai=""/>
+	<cas type="Asteroide" x="65" y="-96" minerai="84" />
+	<cas type="Asteroide" x="67" y="-93" minerai="77" />
+	<cas type="Asteroide" x="72" y="-88" minerai="4" />
+	<cas type="Asteroide" x="100" y="-68" minerai="0" ><remarque>RAS</remarque></cas>
+	<cas type="Asteroide" x="101" y="-70" minerai="73" />
+	<cas type="Asteroide" x="102" y="-71" minerai="37" ><remarque>RAS</remarque></cas>
+	<cas type="Asteroide" x="102" y="-64" minerai="78"/>
+	<cas type="Asteroide" x="103" y="-76" minerai="5" />
+	<cas type="Asteroide" x="103" y="-73" minerai="73" />
+	<cas type="Asteroide" x="104" y="-68" minerai="4" />
+	<cas type="Asteroide" x="106" y="-76" minerai="32" ><remarque>RAS</remarque></cas>
+	<cas type="Asteroide" x="121" y="-41" minerai="45" />
+	<cas type="Asteroide" x="122" y="-40" minerai="1" />
+	<cas type="Asteroide" x="122" y="-34" minerai="7" />
+	<cas type="Asteroide" x="123" y="-43" minerai="92" />
+	<cas type="Asteroide" x="123" y="-27" minerai="8" />
+	<cas type="Asteroide" x="124" y="-37" minerai="18" />
+	<cas type="Asteroide" x="124" y="-27" minerai="14" />
+	<cas type="Asteroide" x="125" y="-24" minerai="2" />
+	<cas type="Asteroide" x="126" y="-41" minerai="6" />
+	<cas type="Asteroide" x="126" y="-31" minerai="123" />
+	<cas type="Asteroide" x="127" y="-41" minerai="21" />
+	<cas type="Asteroide" x="127" y="-28" minerai="30" />
+	<cas type="Asteroide" x="127" y="-24" minerai="29"/>
+	<cas type="Asteroide" x="127" y="-16" minerai="108" />
+	<cas type="Asteroide" x="128" y="-41" minerai="0" />
+	<cas type="Asteroide" x="128" y="-33" minerai="25" />
+	<cas type="Asteroide" x="128" y="-30" minerai="3" />
+	<cas type="Asteroide" x="128" y="-24" minerai="47" />
+	<cas type="Asteroide" x="128" y="-11" minerai="0" />
+	<cas type="Asteroide" x="129" y="-41" minerai="85" />
+	<cas type="Asteroide" x="129" y="-29" minerai="1" />
+	<cas type="Asteroide" x="129" y="-27" minerai="18" />
+	<cas type="Asteroide" x="129" y="-15" minerai="19" />
+	<cas type="Asteroide" x="130" y="-33" minerai="3" />
+	<cas type="Asteroide" x="130" y="-30" minerai="18" />
+	<cas type="Asteroide" x="130" y="-16" minerai="107" />
+	<cas type="Asteroide" x="130" y="-14" minerai="124" />
+	<cas type="Asteroide" x="130" y="-13" minerai="4" />
+	<cas type="Asteroide" x="130" y="-9" minerai="24" />
+	<cas type="Asteroide" x="131" y="-35" minerai="30" />
+	<cas type="Asteroide" x="131" y="-23" minerai="0" />
+	<cas type="Asteroide" x="131" y="-19" minerai="76" />
+	<cas type="Asteroide" x="131" y="-4" minerai="70" />
+	<cas type="Asteroide" x="132" y="-42" minerai="32" />
+	<cas type="Asteroide" x="132" y="-37" minerai="0" />
+	<cas type="Asteroide" x="132" y="-30" minerai="39" />
+	<cas type="Asteroide" x="132" y="-25" minerai="6" />
+	<cas type="Asteroide" x="132" y="-18" minerai="51" />
+	<cas type="Asteroide" x="132" y="-7" minerai="32" />
+	<cas type="Asteroide" x="132" y="-5" minerai="9" />
+	<cas type="Asteroide" x="132" y="-4" minerai="0" />
+	<cas type="Asteroide" x="133" y="-32" minerai="28" />
+	<cas type="Asteroide" x="133" y="-27" minerai="37" />
+	<cas type="Asteroide" x="133" y="-24" minerai="20" />
+	<cas type="Asteroide" x="133" y="-22" minerai="44" />
+	<cas type="Asteroide" x="133" y="-19" minerai="27" />
+	<cas type="Asteroide" x="133" y="-16" minerai="0" />
+	<cas type="Asteroide" x="133" y="-5" minerai="77" />
+	<cas type="Asteroide" x="133" y="-2" minerai="33" />
+	<cas type="Asteroide" x="134" y="-29" minerai="73" />
+	<cas type="Asteroide" x="134" y="-26" minerai="5" />
+	<cas type="Asteroide" x="134" y="-22" minerai="27" />
+	<cas type="Asteroide" x="134" y="-21" minerai="1" />
+	<cas type="Asteroide" x="134" y="-14" minerai="46" />
+	<cas type="Asteroide" x="134" y="-10" minerai="52" />
+	<cas type="Asteroide" x="135" y="-25" minerai="15" />
+	<cas type="Asteroide" x="135" y="-11" minerai="0" />
+	<cas type="Asteroide" x="135" y="-10" minerai="0" />
+	<cas type="Asteroide" x="136" y="-42" minerai="39" />
+	<cas type="Asteroide" x="136" y="-23" minerai="45" />
+	<cas type="Asteroide" x="136" y="-21" minerai="20" />
+	<cas type="Asteroide" x="136" y="-18" minerai="34" />
+	<cas type="Asteroide" x="136" y="-14" minerai="37" />
+	<cas type="Asteroide" x="136" y="-13" minerai="50" />
+	<cas type="Asteroide" x="136" y="-9" minerai="65" />
+	<cas type="Asteroide" x="136" y="-8" minerai="32" />
+	<cas type="Asteroide" x="136" y="-6" minerai="38" />
+	<cas type="Asteroide" x="136" y="-5" minerai="14" />
+	<cas type="Asteroide" x="137" y="-26" minerai="18" />
+	<cas type="Asteroide" x="137" y="-22" minerai="1" />
+	<cas type="Asteroide" x="137" y="-10" minerai="0" />
+	<cas type="Asteroide" x="137" y="-9" minerai="22" />
+	<cas type="Asteroide" x="137" y="-6" minerai="23" />
+	<cas type="Asteroide" x="138" y="-28" minerai="8" />
+	<cas type="Asteroide" x="138" y="-16" minerai="58" />
+	<cas type="Asteroide" x="138" y="-14" minerai="2" />
+	<cas type="Asteroide" x="138" y="-5" minerai="20" />
+	<cas type="Asteroide" x="139" y="-21" minerai="72" />
+	<cas type="Asteroide" x="139" y="-20" minerai="1" />
+	<cas type="Asteroide" x="141" y="-19" minerai="100" />
+	<cas type="Asteroide" x="141" y="-16" minerai="74" />
+	<cas type="Asteroide" x="141" y="-8" minerai="41" />
+	<cas type="Asteroide" x="142" y="-17" minerai="19" />
+	<cas type="Asteroide" x="142" y="-4" minerai="25" />
+	<cas type="Asteroide" x="143" y="-22" minerai="5" />
+	<cas type="Asteroide" x="143" y="-9" minerai="30" />
+	<cas type="Asteroide" x="143" y="-3" minerai="10" />
+	<cas type="Asteroide" x="144" y="-15" minerai="70" />
+	<cas type="Asteroide" x="-92" y="0" minerai="81" />
+	<cas type="Asteroide" x="-92" y="14" minerai="65" />
+	<cas type="Asteroide" x="-90" y="12" minerai="86" />
+	<cas type="Asteroide" x="-89" y="10" minerai="10" />
+	<cas type="Asteroide" x="-89" y="15" minerai="33" />
+	<cas type="Asteroide" x="-86" y="13" minerai="19" />
+	<cas type="Asteroide" x="-85" y="3" minerai="40" />
+	<cas type="Asteroide" x="-85" y="18" minerai="13"/>
+	<cas type="Asteroide" x="-84" y="5" minerai="75" />
+	<cas type="Asteroide" x="-84" y="21" minerai="79" />
+	<cas type="Asteroide" x="-84" y="22" minerai="28" />
+	<cas type="Asteroide" x="-84" y="23" minerai="6" />
+	<cas type="Asteroide" x="-84" y="28" minerai="5" />
+	<cas type="Asteroide" x="-84" y="44" minerai="27" />
+	<cas type="Asteroide" x="-83" y="10" minerai="61" />
+	<cas type="Asteroide" x="-83" y="19" minerai="28" />
+	<cas type="Asteroide" x="-82" y="2" minerai="72" />
+	<cas type="Asteroide" x="-82" y="14" minerai="57" />
+	<cas type="Asteroide" x="-82" y="17" minerai="0" />
+	<cas type="Asteroide" x="-82" y="35" minerai="11" />
+	<cas type="Asteroide" x="-80" y="22" minerai="0" />
+	<cas type="Asteroide" x="-79" y="12" minerai="2" />
+	<cas type="Asteroide" x="-79" y="19" minerai="44" />
+	<cas type="Asteroide" x="-76" y="12" minerai="2" />
+	<cas type="Asteroide" x="-76" y="20" minerai="2" />
+	<cas type="Asteroide" x="-75" y="23" minerai="97" />
+	<cas type="Asteroide" x="-72" y="26" minerai="43" />
+	<cas type="Asteroide" x="-72" y="64" minerai="0" />
+	<cas type="Asteroide" x="-72" y="66" minerai="0" />
+	<cas type="Asteroide" x="-69" y="64" minerai="83" />
+	<cas type="Asteroide" x="-69" y="65" minerai="43" />
+	<cas type="Asteroide" x="-69" y="67" minerai="106" />
+	<cas type="Asteroide" x="-69" y="73" minerai="73" />
+	<cas type="Asteroide" x="-68" y="66" minerai="0" />
+	<cas type="Asteroide" x="-68" y="71" minerai="43" />
+	<cas type="Asteroide" x="-67" y="62" minerai="54" />
+	<cas type="Asteroide" x="-67" y="66" minerai="59"/>
+	<cas type="Asteroide" x="-67" y="68" minerai="69" />
+	<cas type="Asteroide" x="-67" y="77" minerai="2" />
+	<cas type="Asteroide" x="-66" y="71" minerai="0" />
+	<cas type="Asteroide" x="-65" y="76" minerai="13" />
+	<cas type="Asteroide" x="-65" y="78" minerai="22" />
+	<cas type="Asteroide" x="-64" y="66" minerai="11" />
+	<cas type="Asteroide" x="-64" y="67" minerai="89" />
+	<cas type="Asteroide" x="-64" y="72" minerai="93" />
+	<cas type="Asteroide" x="-63" y="65" minerai="29" />
+	<cas type="Asteroide" x="-63" y="69" minerai="78" />
+	<cas type="Asteroide" x="-63" y="73" minerai="42" />
+	<cas type="Asteroide" x="-63" y="74" minerai="34" />
+	<cas type="Asteroide" x="-63" y="77" minerai="7" />
+	<cas type="Asteroide" x="-63" y="82" minerai="0" />
+	<cas type="Asteroide" x="-62" y="78" minerai="97" />
+	<cas type="Asteroide" x="-61" y="63" minerai="1" />
+	<cas type="Asteroide" x="-61" y="64" minerai="43" />
+	<cas type="Asteroide" x="-61" y="66" minerai="49" />
+	<cas type="Asteroide" x="-61" y="71" minerai="21" />
+	<cas type="Asteroide" x="-61" y="73" minerai="63" />
+	<cas type="Asteroide" x="-61" y="83" minerai="0" />
+	<cas type="Asteroide" x="-61" y="86" minerai="24" />
+	<cas type="Asteroide" x="-60" y="64" minerai="93" />
+	<cas type="Asteroide" x="-59" y="70" minerai="1" />
+	<cas type="Asteroide" x="-59" y="77" minerai="81" />
+	<cas type="Asteroide" x="-59" y="80" minerai="61" />
+	<cas type="Asteroide" x="-59" y="81" minerai="62" />
+	<cas type="Asteroide" x="-58" y="77" minerai="69" />
+	<cas type="Asteroide" x="-58" y="78" minerai="16" />
+	<cas type="Asteroide" x="-58" y="85" minerai="12" />
+	<cas type="Asteroide" x="-58" y="86" minerai="0" />
+	<cas type="Asteroide" x="-57" y="62" minerai="20" />
+	<cas type="Asteroide" x="-57" y="68" minerai="42" />
+	<cas type="Asteroide" x="-57" y="74" minerai="103" />
+	<cas type="Asteroide" x="-57" y="77" minerai="1" />
+	<cas type="Asteroide" x="-57" y="81" minerai="7" />
+	<cas type="Asteroide" x="-57" y="86" minerai="1" />
+	<cas type="Asteroide" x="-56" y="80" minerai="76" />
+	<cas type="Asteroide" x="-56" y="85" minerai="95" />
+	<cas type="Asteroide" x="-55" y="76" minerai="9" />
+	<cas type="Asteroide" x="-55" y="77" minerai="46" />
+	<cas type="Asteroide" x="-55" y="78" minerai="8" />
+	<cas type="Asteroide" x="-55" y="85" minerai="12" />
+	<cas type="Asteroide" x="-55" y="86" minerai="17" />
+	<cas type="Asteroide" x="-54" y="79" minerai="22" />
+	<cas type="Asteroide" x="-53" y="76" minerai="34" />
+	<cas type="Asteroide" x="-53" y="82" minerai="3" />
+	<cas type="Asteroide" x="-53" y="85" minerai="0" />
+	<cas type="Asteroide" x="-53" y="90" minerai="13" />
+	<cas type="Asteroide" x="-52" y="73" minerai="4" />
+	<cas type="Asteroide" x="-52" y="77" minerai="0" />
+	<cas type="Asteroide" x="-52" y="78" minerai="1" />
+	<cas type="Asteroide" x="-52" y="86" minerai="33" />
+	<cas type="Asteroide" x="-52" y="90" minerai="5" />
+	<cas type="Asteroide" x="-52" y="91" minerai="90" />
+	<cas type="Asteroide" x="-51" y="77" minerai="3" />
+	<cas type="Asteroide" x="-51" y="91" minerai="53" />
+	<cas type="Asteroide" x="-51" y="94" minerai="0" />
+	<cas type="Asteroide" x="-50" y="80" minerai="0" />
+	<cas type="Asteroide" x="-50" y="82" minerai="8" />
+	<cas type="Asteroide" x="-50" y="89" minerai="89" />
+	<cas type="Asteroide" x="-49" y="78" minerai="19" />
+	<cas type="Asteroide" x="-49" y="79" minerai="2" />
+	<cas type="Asteroide" x="-49" y="82" minerai="8" />
+	<cas type="Asteroide" x="-49" y="85" minerai="14" />
+	<cas type="Asteroide" x="-49" y="86" minerai="0" />
+	<cas type="Asteroide" x="-48" y="80" minerai="0" />
+	<cas type="Asteroide" x="-48" y="85" minerai="14" />
+	<cas type="Asteroide" x="-48" y="87" minerai="37" />
+	<cas type="Asteroide" x="-47" y="76" minerai="95" />
+	<cas type="Asteroide" x="-47" y="78" minerai="58" />
+	<cas type="Asteroide" x="-47" y="88" minerai="58" />
+	<cas type="Asteroide" x="-47" y="91" minerai="91" />
+	<cas type="Asteroide" x="-47" y="92" minerai="23" />
+	<cas type="Asteroide" x="-47" y="96" minerai="16" />
+	<cas type="Asteroide" x="-46" y="86" minerai="11" />
+	<cas type="Asteroide" x="-46" y="91" minerai="6" />
+	<cas type="Asteroide" x="-46" y="92" minerai="24" />
+	<cas type="Asteroide" x="-46" y="98" minerai="5" />
+	<cas type="Asteroide" x="-45" y="90" minerai="59" />
+	<cas type="Asteroide" x="-45" y="96" minerai="106" />
+	<cas type="Asteroide" x="-44" y="87" minerai="4" />
+	<cas type="Asteroide" x="-44" y="91" minerai="0" />
+	<cas type="Asteroide" x="-44" y="94" minerai="14" />
+	<cas type="Asteroide" x="-44" y="96" minerai="1" />
+	<cas type="Asteroide" x="-44" y="99" minerai="38" />
+	<cas type="Asteroide" x="-43" y="86" minerai="0" />
+	<cas type="Asteroide" x="-43" y="102" minerai="76" />
+	<cas type="Asteroide" x="-42" y="91" minerai="41" />
+	<cas type="Asteroide" x="-42" y="93" minerai="97" />
+	<cas type="Asteroide" x="-42" y="97" minerai="31" />
+	<cas type="Asteroide" x="-41" y="89" minerai="83" />
+	<cas type="Asteroide" x="-41" y="93" minerai="114" />
+	<cas type="Asteroide" x="-41" y="102" minerai="92" />
+	<cas type="Asteroide" x="-41" y="103" minerai="11" />
+	<cas type="Asteroide" x="-40" y="86" minerai="81" />
+	<cas type="Asteroide" x="-40" y="89" minerai="12" />
+	<cas type="Asteroide" x="-40" y="90" minerai="1" />
+	<cas type="Asteroide" x="-40" y="92" minerai="78" />
+	<cas type="Asteroide" x="-40" y="98" minerai="32" />
+	<cas type="Asteroide" x="-40" y="101" minerai="0" />
+	<cas type="Asteroide" x="-39" y="90" minerai="8" />
+	<cas type="Asteroide" x="-39" y="95" minerai="11" />
+	<cas type="Asteroide" x="-39" y="102" minerai="31" />
+	<cas type="Asteroide" x="-37" y="95" minerai="11" />
+	<cas type="Asteroide" x="-36" y="97" minerai="82" />
+	<cas type="Asteroide" x="-36" y="99" minerai="50" />
+	<cas type="Asteroide" x="-36" y="102" minerai="92" />
+	<cas type="Asteroide" x="-35" y="104" minerai="27" />
+	<cas type="Asteroide" x="-35" y="107" minerai="31" />
+	<cas type="Asteroide" x="-34" y="97" minerai="70" />
+	<cas type="Asteroide" x="-33" y="95" minerai="58" />
+	<cas type="Asteroide" x="-33" y="99" minerai="28" />
+	<cas type="Asteroide" x="-33" y="100" minerai="12" />
+	<cas type="Asteroide" x="-33" y="103" minerai="69" />
+	<cas type="Asteroide" x="-31" y="95" minerai="91" />
+	<cas type="Asteroide" x="-31" y="105" minerai="96" />
+	<cas type="Asteroide" x="-31" y="107" minerai="56" />
+	<cas type="Asteroide" x="-30" y="95" minerai="88" />
+	<cas type="Asteroide" x="-30" y="98" minerai="17" />
+	<cas type="Asteroide" x="-30" y="102" minerai="2" />
+	<cas type="Asteroide" x="-29" y="97" minerai="0" />
+	<cas type="Asteroide" x="-29" y="108" minerai="13" />
+	<cas type="Asteroide" x="-28" y="105" minerai="3" />
+	<cas type="Asteroide" x="-27" y="96" minerai="3" />
+	<cas type="Asteroide" x="-26" y="107" minerai="5" />
+	<cas type="Asteroide" x="-26" y="109" minerai="26" />
+	<cas type="Asteroide" x="-25" y="110" minerai="85" />
+	<cas type="Asteroide" x="-24" y="111" minerai="30" />
+	<cas type="Asteroide" x="-23" y="109" minerai="33" />
+	<cas type="Asteroide" x="-21" y="112" minerai="4" />
+	<cas type="Asteroide" x="-20" y="110" minerai="59" />
+	<cas type="Asteroide" x="-19" y="110" minerai="23" />
+	<cas type="Asteroide" x="-18" y="112" minerai="89" />
+	<cas type="Asteroide" x="-18" y="116" minerai="56" />
+	<cas type="Asteroide" x="-16" y="110" minerai="25" />
+	<cas type="Asteroide" x="-15" y="100" minerai="40" />
+	<cas type="Asteroide" x="-15" y="112" minerai="61" />
+	<cas type="Asteroide" x="-14" y="106" minerai="93" />
+	<cas type="Asteroide" x="-14" y="109" minerai="69" />
+	<cas type="Asteroide" x="-14" y="110" minerai="41" />
+	<cas type="Asteroide" x="-14" y="113" minerai="1"/>
+	<cas type="Asteroide" x="-14" y="115" minerai="67" />
+	<cas type="Asteroide" x="-13" y="103" minerai="34" />
+	<cas type="Asteroide" x="-12" y="102" minerai="44" />
+	<cas type="Asteroide" x="-12" y="103" minerai="57" />
+	<cas type="Asteroide" x="-12" y="106" minerai="0" />
+	<cas type="Asteroide" x="-12" y="110" minerai="0" />
+	<cas type="Asteroide" x="-11" y="105" minerai="6" />
+	<cas type="Asteroide" x="-11" y="110" minerai="7" />
+	<cas type="Asteroide" x="-11" y="112" minerai="39" />
+	<cas type="Asteroide" x="-11" y="115" minerai="7" />
+	<cas type="Asteroide" x="-11" y="116" minerai="12" />
+	<cas type="Asteroide" x="-10" y="110" minerai="0" />
+	<cas type="Asteroide" x="-9" y="105" minerai="74" />
+	<cas type="Asteroide" x="-9" y="116" minerai="20" />
+	<cas type="Asteroide" x="-8" y="104" minerai="17" />
+	<cas type="Asteroide" x="-8" y="106" minerai="0" />
+	<cas type="Asteroide" x="-8" y="108" minerai="22" />
+	<cas type="Asteroide" x="-8" y="110" minerai="22" />
+	<cas type="Asteroide" x="-8" y="111" minerai="12" ><remarque>Marchand</remarque></cas>
+	<cas type="Asteroide" x="-8" y="115" minerai="97 (127)" />
+	<cas type="Asteroide" x="-7" y="105" minerai="30" />
+	<cas type="Asteroide" x="-7" y="110" minerai="100" />
+	<cas type="Asteroide" x="-7" y="112" minerai="43" />
+	<cas type="Asteroide" x="-6" y="110" minerai="15" />
+	<cas type="Asteroide" x="-6" y="116" minerai="15" />
+	<cas type="Asteroide" x="-5" y="114" minerai="0" />
+	<cas type="Asteroide" x="-4" y="109" minerai="23" />
+	<cas type="Asteroide" x="-4" y="110" minerai="43" />
+	<cas type="Asteroide" x="-3" y="110" minerai="0" />
+	<cas type="Asteroide" x="-3" y="114" minerai="0" />
+	<cas type="Asteroide" x="-3" y="117" minerai="5" />
+	<cas type="Asteroide" x="-2" y="111" minerai="32" />
+	<cas type="Asteroide" x="-2" y="112" minerai="20" />
+	<cas type="Asteroide" x="-2" y="115" minerai="14" />
+	<cas type="Asteroide" x="0" y="108" minerai="13" />
+	<cas type="Asteroide" x="0" y="112" minerai="10" />
+	<cas type="Asteroide" x="0" y="115" minerai="43" />
+	<cas type="Asteroide" x="0" y="116" minerai="19" />
+	<cas type="Asteroide" x="1" y="110" minerai="48" />
+	<cas type="Asteroide" x="1" y="116" minerai="60" />
+	<cas type="Asteroide" x="2" y="108" minerai="0" />
+	<cas type="Asteroide" x="2" y="111" minerai="49" />
+	<cas type="Asteroide" x="2" y="113" minerai="11" />
+	<cas type="Asteroide" x="3" y="106" minerai="15" />
+	<cas type="Asteroide" x="3" y="117" minerai="8" />
+	<cas type="Asteroide" x="4" y="115" minerai="12" />
+	<cas type="Asteroide" x="4" y="119" minerai="67" />
+	<cas type="Asteroide" x="5" y="107" minerai="74" />
+	<cas type="Asteroide" x="5" y="109" minerai="11" />
+	<cas type="Asteroide" x="5" y="110" minerai="20" />
+	<cas type="Asteroide" x="6" y="110" minerai="47" />
+	<cas type="Asteroide" x="6" y="111" minerai="54" />
+	<cas type="Asteroide" x="6" y="114" minerai="2" />
+	<cas type="Asteroide" x="6" y="115" minerai="3" />
+	<cas type="Asteroide" x="6" y="117" minerai="11" />
+	<cas type="Asteroide" x="6" y="121" minerai="1" />
+	<cas type="Asteroide" x="7" y="112" minerai="10" />
+	<cas type="Asteroide" x="7" y="114" minerai="10" />
+	<cas type="Asteroide" x="7" y="117" minerai="101" />
+	<cas type="Asteroide" x="8" y="119" minerai="9" />
+	<cas type="Asteroide" x="8" y="120" minerai="18" />
+	<cas type="Asteroide" x="9" y="108" minerai="89" />
+	<cas type="Asteroide" x="9" y="110" minerai="4" />
+	<cas type="Asteroide" x="9" y="112" minerai="32" />
+	<cas type="Asteroide" x="9" y="113" minerai="23" />
+	<cas type="Asteroide" x="10" y="105" minerai="18" />
+	<cas type="Asteroide" x="10" y="114" minerai="49" />
+	<cas type="Asteroide" x="10" y="116" minerai="10" />
+	<cas type="Asteroide" x="10" y="117" minerai="8" />
+	<cas type="Asteroide" x="11" y="110" minerai="83" />
+	<cas type="Asteroide" x="11" y="111" minerai="61" />
+	<cas type="Asteroide" x="11" y="112" minerai="2" />
+	<cas type="Asteroide" x="11" y="114" minerai="0" />
+	<cas type="Asteroide" x="11" y="115" minerai="59" />
+	<cas type="Asteroide" x="12" y="107" minerai="13" />
+	<cas type="Asteroide" x="12" y="115" minerai="1" />
+	<cas type="Asteroide" x="12" y="116" minerai="49" />
+	<cas type="Asteroide" x="13" y="111" minerai="9" />
+	<cas type="Asteroide" x="13" y="112" minerai="79" />
+	<cas type="Asteroide" x="13" y="118" minerai="53" />
+	<cas type="Asteroide" x="13" y="120" minerai="0" />
+	<cas type="Asteroide" x="14" y="110" minerai="61" />
+	<cas type="Asteroide" x="14" y="116" minerai="68" />
+	<cas type="Asteroide" x="14" y="120" minerai="0" />
+	<cas type="Asteroide" x="15" y="112" minerai="118" />
+	<cas type="Asteroide" x="15" y="119" minerai="41" />
+	<cas type="Asteroide" x="15" y="120" minerai="68" />
+	<cas type="Asteroide" x="15" y="121" minerai="5" />
+	<cas type="Asteroide" x="15" y="122" minerai="37" />
+	<cas type="Asteroide" x="16" y="114" minerai="66" />
+	<cas type="Asteroide" x="16" y="116" minerai="17" />
+	<cas type="Asteroide" x="16" y="119" minerai="58" />
+	<cas type="Asteroide" x="17" y="119" minerai="82" />
+	<cas type="Asteroide" x="17" y="120" minerai="25" />
+	<cas type="Asteroide" x="17" y="124" minerai="39" />
+	<cas type="Asteroide" x="18" y="114" minerai="76" />
+	<cas type="Asteroide" x="18" y="115" minerai="25" />
+	<cas type="Asteroide" x="19" y="113" minerai="3" />
+	<cas type="Asteroide" x="19" y="121" minerai="47" />
+	<cas type="Asteroide" x="20" y="112" minerai="60" />
+	<cas type="Asteroide" x="20" y="113" minerai="126" />
+	<cas type="Asteroide" x="20" y="114" minerai="0" />
+	<cas type="Asteroide" x="21" y="114" minerai="60" />
+	<cas type="Asteroide" x="21" y="116" minerai="9" />
+	<cas type="Asteroide" x="21" y="118" minerai="8" />
+	<cas type="Asteroide" x="22" y="109" minerai="75" />
+	<cas type="Asteroide" x="22" y="112" minerai="2" />
+	<cas type="Asteroide" x="22" y="114" minerai="14" />
+	<cas type="Asteroide" x="22" y="115" minerai="32" />
+	<cas type="Asteroide" x="22" y="122" minerai="15" />
+	<cas type="Asteroide" x="23" y="119" minerai="46" />
+	<cas type="Asteroide" x="24" y="109" minerai="0" />
+	<cas type="Asteroide" x="24" y="121" minerai="84" />
+	<cas type="Asteroide" x="25" y="111" minerai="21" />
+	<cas type="Asteroide" x="25" y="114" minerai="3" />
+	<cas type="Asteroide" x="26" y="109" minerai="2" />
+	<cas type="Asteroide" x="26" y="110" minerai="20" />
+	<cas type="Asteroide" x="26" y="114" minerai="3" />
+	<cas type="Asteroide" x="26" y="116" minerai="14" />
+	<cas type="Asteroide" x="27" y="116" minerai="79" />
+	<cas type="Asteroide" x="28" y="114" minerai="46" />
+	<cas type="Asteroide" x="29" y="112" minerai="6" />
+	<cas type="Asteroide" x="29" y="113" minerai="4" />
+	<cas type="Asteroide" x="29" y="122" minerai="62" />
+	<cas type="Asteroide" x="30" y="110" minerai="98" />
+	<cas type="Asteroide" x="30" y="114" minerai="80" />
+	<cas type="Asteroide" x="30" y="118" minerai="11" />
+	<cas type="Asteroide" x="30" y="124" minerai="35" />
+	<cas type="Asteroide" x="31" y="112" minerai="0" />
+	<cas type="Asteroide" x="31" y="122" minerai="1" />
+	<cas type="Asteroide" x="33" y="115" minerai="4" />
+	<cas type="Asteroide" x="34" y="110" minerai="30" />
+	<cas type="Asteroide" x="34" y="119" minerai="60" />
+	<cas type="Asteroide" x="34" y="122" minerai="71" />
+	<cas type="Asteroide" x="35" y="112" minerai="60" />
+	<cas type="Asteroide" x="35" y="116" minerai="44" />
+	<cas type="Asteroide" x="36" y="110" minerai="84" />
+	<cas type="Asteroide" x="36" y="114" minerai="78" />
+	<cas type="Asteroide" x="36" y="125" minerai="93" />
+	<cas type="Asteroide" x="37" y="118" minerai="15" />
+	<cas type="Asteroide" x="38" y="110" minerai="31" />
+	<cas type="Asteroide" x="38" y="114" minerai="3" />
+	<cas type="Asteroide" x="38" y="121" minerai="38" />
+	<cas type="Asteroide" x="38" y="122" minerai="20" />
+	<cas type="Asteroide" x="39" y="108" minerai="1" />
+	<cas type="Asteroide" x="39" y="110" minerai="47" />
+	<cas type="Asteroide" x="40" y="113" minerai="8" />
+	<cas type="Asteroide" x="40" y="120" minerai="6" />
+	<cas type="Asteroide" x="42" y="110" minerai="0" />
+	<cas type="Asteroide" x="42" y="112" minerai="40" />
+	<cas type="Asteroide" x="42" y="121" minerai="39" />
+	<cas type="Asteroide" x="43" y="113" minerai="38" />
+	<cas type="Asteroide" x="44" y="115" minerai="57" />
+	<cas type="Asteroide" x="44" y="116" minerai="" />
+	<cas type="Asteroide" x="44" y="120" minerai="51" />
+	<cas type="Asteroide" x="45" y="115" minerai="8" />
+	<cas type="Asteroide" x="45" y="116" minerai="49" />
+	<cas type="Asteroide" x="45" y="118" minerai="13" />
+	<cas type="Asteroide" x="46" y="114" minerai="10" />
+	<cas type="Asteroide" x="46" y="117" minerai="12" />
+	<cas type="Asteroide" x="47" y="115" minerai="82" />
+	<cas type="Asteroide" x="48" y="115" minerai="35" />
+	<cas type="Asteroide" x="48" y="119" minerai="20" ><remarque>Maison vide</remarque></cas>
+	<cas type="Asteroide" x="50" y="114" minerai="0" />
+	<cas type="Asteroide" x="50" y="116" minerai="68" />
+	<cas type="Asteroide" x="50" y="123" minerai="0" />
+	<cas type="Asteroide" x="51" y="115" minerai="84" />
+	<cas type="Asteroide" x="52" y="113" minerai="0" />
+	<cas type="Asteroide" x="53" y="112" minerai="34" ><remarque>RAS</remarque></cas>
+	<cas type="Asteroide" x="53" y="114" minerai="65" />
+	<cas type="Asteroide" x="54" y="113" minerai="9" />
+	<cas type="Asteroide" x="55" y="113" minerai="6" />
+	<cas type="Asteroide" x="56" y="119" minerai="28" ><remarque>RAS</remarque></cas>
+	<cas type="Asteroide" x="57" y="111" minerai="6" />
+	<cas type="Asteroide" x="57" y="115" minerai="61" />
+	<cas type="Asteroide" x="58" y="106" minerai="0"/>
+	<cas type="Asteroide" x="58" y="111" minerai="15" />
+	<cas type="Asteroide" x="58" y="112" minerai="" />
+	<cas type="Asteroide" x="58" y="116" minerai="29" />
+	<cas type="Asteroide" x="58" y="118" minerai="49" />
+	<cas type="Asteroide" x="58" y="119" minerai="4" />
+	<cas type="Asteroide" x="58" y="120" minerai="9" />
+	<cas type="Asteroide" x="59" y="104" minerai="1" />
+	<cas type="Asteroide" x="59" y="111" minerai="13" />
+	<cas type="Asteroide" x="59" y="117" minerai="57" />
+	<cas type="Asteroide" x="61" y="109" minerai="90" />
+	<cas type="Asteroide" x="61" y="115" minerai="29" />
+	<cas type="Asteroide" x="62" y="119" minerai="0" />
+	<cas type="Asteroide" x="63" y="110" minerai="11" />
+	<cas type="Asteroide" x="63" y="112" minerai="7" />
+	<cas type="Asteroide" x="63" y="114" minerai="54" />
+	<cas type="Asteroide" x="63" y="115" minerai="5" />
+	<cas type="Asteroide" x="64" y="109" minerai="15" />
+	<cas type="Asteroide" x="64" y="110" minerai="77" />
+	<cas type="Asteroide" x="64" y="111" minerai="31" />
+	<cas type="Asteroide" x="64" y="113" minerai="0" />
+	<cas type="Asteroide" x="65" y="108" minerai="26" />
+	<cas type="Asteroide" x="65" y="109" minerai="4" />
+	<cas type="Asteroide" x="66" y="103" minerai="35" />
+	<cas type="Asteroide" x="66" y="106" minerai="3" />
+	<cas type="Asteroide" x="66" y="108" minerai="66" />
+	<cas type="Asteroide" x="66" y="109" minerai="34" />
+	<cas type="Asteroide" x="66" y="110" minerai="11" />
+	<cas type="Asteroide" x="67" y="108" minerai="81" />
+	<cas type="Asteroide" x="67" y="109" minerai="21" />
+	<cas type="Asteroide" x="67" y="110" minerai="73" />
+	<cas type="Asteroide" x="67" y="111" minerai="31" />
+	<cas type="Asteroide" x="68" y="105" minerai="96" />
+	<cas type="Asteroide" x="68" y="109" minerai="4" />
+	<cas type="Asteroide" x="69" y="112" minerai="6" />
+	<cas type="Asteroide" x="70" y="105" minerai="21" />
+	<cas type="Asteroide" x="70" y="107" minerai="97" />
+	<cas type="Asteroide" x="71" y="104" minerai="12" />
+	<cas type="Asteroide" x="71" y="106" minerai="1" />
+	<cas type="Asteroide" x="71" y="110" minerai="31" />
+	<cas type="Asteroide" x="72" y="109" minerai="0" />
+	<cas type="Asteroide" x="72" y="114" minerai="51" />
+	<cas type="Asteroide" x="72" y="116" minerai="91" />
+	<cas type="Asteroide" x="73" y="108" minerai="43" />
+	<cas type="Asteroide" x="73" y="113" minerai="80" />
+	<cas type="Asteroide" x="74" y="106" minerai="75" />
+	<cas type="Asteroide" x="74" y="108" minerai="93" />
+	<cas type="Asteroide" x="75" y="108" minerai="6" />
+	<cas type="Asteroide" x="75" y="113" minerai="80" />
+	<cas type="Asteroide" x="76" y="107" minerai="32" />
+	<cas type="Asteroide" x="76" y="109" minerai="54" />
+	<cas type="Asteroide" x="76" y="111" minerai="17" />
+	<cas type="Asteroide" x="77" y="104" minerai="3" />
+	<cas type="Asteroide" x="77" y="107" minerai="16" />
+	<cas type="Asteroide" x="79" y="105" minerai="50" />
+	<cas type="Asteroide" x="81" y="109" minerai="2" />
+	<cas type="Asteroide" x="82" y="92" minerai="91" ><remarque>RAS</remarque></cas>
+	<cas type="Asteroide" x="83" y="95" minerai="0" ><remarque>RAS</remarque></cas>
+	<cas type="Asteroide" x="83" y="107" minerai="80" />
+	<cas type="Asteroide" x="83" y="109" minerai="0" />
+	<cas type="Asteroide" x="84" y="100" minerai="9" ><remarque>Brifuk en [-28][41] pour 1680 minerais</remarque></cas>
+	<cas type="Asteroide" x="85" y="104" minerai="8" />
+	<cas type="Asteroide" x="85" y="105" minerai="52" />
+	<cas type="Asteroide" x="86" y="97" minerai="15" />
+	<cas type="Asteroide" x="86" y="99" minerai="5" />
+	<cas type="Asteroide" x="86" y="103" minerai="9" />
+	<cas type="Asteroide" x="86" y="106" minerai="75" />
+	<cas type="Asteroide" x="87" y="90" minerai="29" />
+	<cas type="Asteroide" x="87" y="105" minerai="23" />
+	<cas type="Asteroide" x="88" y="100" minerai="3" />
+	<cas type="Asteroide" x="89" y="96" minerai="40" />
+	<cas type="Asteroide" x="90" y="98" minerai="92" />
+	<cas type="Asteroide" x="90" y="99" minerai="81" />
+	<cas type="Asteroide" x="90" y="100" minerai="18" />
+	<cas type="Asteroide" x="91" y="98" minerai="4" />
+	<cas type="Asteroide" x="91" y="106" minerai="2" />
+	<cas type="Asteroide" x="93" y="98" minerai="2" />
+	<cas type="Asteroide" x="94" y="96" minerai="27" />
+	<cas type="Asteroide" x="94" y="99" minerai="28" />
+	<cas type="Asteroide" x="94" y="101" minerai="3" />
+	<cas type="Asteroide" x="98" y="98" minerai="6" />
+	<cas type="Asteroide" x="99" y="84" minerai="79" />
+	<cas type="Asteroide" x="99" y="90" minerai="44" />
+	<cas type="Asteroide" x="99" y="91" minerai="51" />
+	<cas type="Asteroide" x="99" y="92" minerai="23" />
+	<cas type="Asteroide" x="99" y="95" minerai="65" />
+	<cas type="Asteroide" x="100" y="83" minerai="0" />
+	<cas type="Asteroide" x="101" y="83" minerai="10" />
+	<cas type="Asteroide" x="101" y="92" minerai="6" />
+	<cas type="Asteroide" x="103" y="90" minerai="83" />
+	<cas type="Asteroide" x="103" y="93" minerai="2" />
+	<cas type="Asteroide" x="103" y="98" minerai="70" />
+	<cas type="Asteroide" x="106" y="87" minerai="63" />
+	<cas type="Asteroide" x="106" y="94" minerai="10" />
+	<cas type="Asteroide" x="107" y="88" minerai="61" />
+	<cas type="Asteroide" x="108" y="86" minerai="3" />
+	<cas type="Asteroide" x="111" y="65" minerai="59" />
+	<cas type="Asteroide" x="112" y="67" minerai="47" />
+	<cas type="Asteroide" x="113" y="84" minerai="114" />
+	<cas type="Asteroide" x="114" y="81" minerai="0" />
+	<cas type="Asteroide" x="115" y="69" minerai="51" />
+	<cas type="Asteroide" x="115" y="79" minerai="35" />
+	<cas type="Asteroide" x="116" y="84" minerai="2" />
+	<cas type="Asteroide" x="117" y="74" minerai="36" />
+	<cas type="Asteroide" x="117" y="83" minerai="6" />
+	<cas type="Asteroide" x="118" y="69" minerai="27" />
+	<cas type="Asteroide" x="118" y="77" minerai="7" />
+	<cas type="Asteroide" x="119" y="65" minerai="92"/>
+	<cas type="Asteroide" x="120" y="66" minerai="0" />
+	<cas type="Asteroide" x="120" y="72" minerai="13" />
+	<cas type="Asteroide" x="120" y="76" minerai="31" />
+	
+	<cas type="Bonus" frame="p" x="-408" y="-124"/>
+	<cas type="Bonus" frame="p" x="-348" y="-123"/>
+	<cas type="Bonus" frame="p" x="-320" y="-490"/>
+	<cas type="Bonus" frame="p" x="-278" y="73"/>
+	<cas type="Bonus" frame="p" x="-209" y="-5"/>
+	<cas type="Bonus" frame="p" x="-202" y="-396"/>
+	<cas type="Bonus" frame="p" x="-202" y="-328"/>
+	<cas type="Bonus" frame="p" x="-186" y="-272"/>
+	<cas type="Bonus" frame="p" x="-183" y="86"/>
+	<cas type="Bonus" frame="p" x="-157" y="-52"/>
+	<cas type="Bonus" frame="p" x="-152" y="117"/>
+	<cas type="Bonus" frame="p" x="-150" y="106"/>
+	<cas type="Bonus" frame="p" x="-150" y="100"/>
+	<cas type="Bonus" frame="p" x="-149" y="113"/>
+	<cas type="Bonus" frame="p" x="-148" y="106"/>
+	<cas type="Bonus" frame="p" x="-118" y="-75" ><remarque>Gauche</remarque></cas>
+	<cas type="Bonus" frame="p" x="-96" y="148" ><remarque>Gauche</remarque></cas>
+	<cas type="Bonus" frame="p" x="-89" y="-98"/>
+	<cas type="Bonus" frame="p" x="-86" y="-82" ><remarque>Gauche</remarque></cas>
+	<cas type="Bonus" frame="p" x="-75" y="-66"/>
+	<cas type="Bonus" frame="p" x="-74" y="23"/>
+	<cas type="Bonus" frame="p" x="-70" y="-101"/>
+	<cas type="Bonus" frame="p" x="-62" y="-131"/>
+	<cas type="Bonus" frame="p" x="-62" y="84"/>
+	<cas type="Bonus" frame="p" x="-61" y="-172"/>
+	<cas type="Bonus" frame="p" x="-58" y="83"/>
+	<cas type="Bonus" frame="p" x="-57" y="102"/>
+	<cas type="Bonus" frame="p" x="-56" y="-143"/>
+	<cas type="Bonus" frame="p" x="-53" y="4"/>
+	<cas type="Bonus" frame="p" x="-52" y="31"/>
+	<cas type="Bonus" frame="p" x="-45" y="65"/>
+	<cas type="Bonus" frame="p" x="-38" y="-11"/>
+	<cas type="Bonus" frame="p" x="-37" y="104"/>
+	<cas type="Bonus" frame="p" x="-37" y="47"/>
+	<cas type="Bonus" frame="p" x="-30" y="112" ><remarque>Droite</remarque></cas>
+	<cas type="Bonus" frame="p" x="-28" y="10"/>
+	<cas type="Bonus" frame="p" x="-27" y="42"/>
+	<cas type="Bonus" frame="p" x="-25" y="35"/>
+	<cas type="Bonus" frame="p" x="-25" y="6"/>
+	<cas type="Bonus" frame="p" x="-24" y="-4"/>
+	<cas type="Bonus" frame="p" x="-21" y="139"/>
+	<cas type="Bonus" frame="p" x="-20" y="-31"/>
+	<cas type="Bonus" frame="p" x="-20" y="31"/>
+	<cas type="Bonus" frame="p" x="-18" y="72"/>
+	<cas type="Bonus" frame="p" x="-17" y="104"/>
+	<cas type="Bonus" frame="p" x="-17" y="112" minerai="47" ><remarque>Haut a droite</remarque></cas>
+	<cas type="Bonus" frame="p" x="-17" y="84"/>
+	<cas type="Bonus" frame="p" x="-16" y="-18"/>
+	<cas type="Bonus" frame="p" x="-15" y="-44"/>
+	<cas type="Bonus" frame="p" x="-15" y="-28"/>
+	<cas type="Bonus" frame="p" x="-14" y="-45"/>
+	<cas type="Bonus" frame="p" x="-14" y="2"/>
+	<cas type="Bonus" frame="p" x="-13" y="28"/>
+	<cas type="Bonus" frame="p" x="-12" y="2"/>
+	<cas type="Bonus" frame="p" x="-10" y="-42"/>
+	<cas type="Bonus" frame="p" x="-10" y="73"/>
+	<cas type="Bonus" frame="p" x="-8" y="-40"/>
+	<cas type="Bonus" frame="p" x="-7" y="-80"/>
+	<cas type="Bonus" frame="p" x="-7" y="-5"/>
+	<cas type="Bonus" frame="p" x="-7" y="5"/>
+	<cas type="Bonus" frame="p" x="-5" y="-44"/>
+	<cas type="Bonus" frame="p" x="-3" y="-17"/>
+	<cas type="Bonus" frame="p" x="-5" y="-8"/>
+	<cas type="Bonus" frame="p" x="-5" y="8"/>
+	<cas type="Bonus" frame="p" x="-1" y="20"/>
+	<cas type="Bonus" frame="p" x="2" y="10"/>
+	<cas type="Bonus" frame="p" x="5" y="153"/>
+	<cas type="Bonus" frame="p" x="5" y="-25"/>
+	<cas type="Bonus" frame="p" x="6" y="10"/>
+	<cas type="Bonus" frame="p" x="7" y="124"/>
+	<cas type="Bonus" frame="p" x="8" y="27"/>
+	<cas type="Bonus" frame="p" x="9" y="27"/>
+	<cas type="Bonus" frame="p" x="14" y="151"/>
+	<cas type="Bonus" frame="p" x="14" y="-45"/>
+	<cas type="Bonus" frame="p" x="16" y="145"/>
+	<cas type="Bonus" frame="p" x="18" y="25"/>
+	<cas type="Bonus" frame="p" x="20" y="130"/>
+	<cas type="Bonus" frame="p" x="22" y="9"/>
+	<cas type="Bonus" frame="p" x="22" y="59"/>
+	<cas type="Bonus" frame="p" x="28" y="125"/>
+	<cas type="Bonus" frame="p" x="30" y="13"/>
+	<cas type="Bonus" frame="p" x="31" y="-22"/>
+	<cas type="Bonus" frame="p" x="32" y="61"/>
+	<cas type="Bonus" frame="p" x="35" y="39"/>
+	<cas type="Bonus" frame="p" x="35" y="15"/>
+	<cas type="Bonus" frame="p" x="36" y="-20"/>
+	<cas type="Bonus" frame="p" x="36" y="54"/>
+	<cas type="Bonus" frame="p" x="40" y="60"/>
+	<cas type="Bonus" frame="p" x="41" y="122"/>
+	<cas type="Bonus" frame="p" x="41" y="-26"/>
+	<cas type="Bonus" frame="p" x="42" y="-15"/>
+	<cas type="Bonus" frame="p" x="50" y="-93"/>
+	<cas type="Bonus" frame="p" x="51" y="106" ><remarque>Dans une brique pousse pousse<br/>Des les premières briques cassées</remarque></cas>
+	<cas type="Bonus" frame="p" x="53" y="-19"/>
+	<cas type="Bonus" frame="p" x="53" y="-72"/>
+	<cas type="Bonus" frame="p" x="60" y="149"/>
+	<cas type="Bonus" frame="p" x="61" y="-69"/>
+	<cas type="Bonus" frame="p" x="61" y="152"/>
+	<cas type="Bonus" frame="p" x="63" y="154"/>
+	<cas type="Bonus" frame="p" x="67" y="154"/>
+	<cas type="Bonus" frame="p" x="68" y="155"/>
+	<cas type="Bonus" frame="p" x="69" y="118"/>
+	<cas type="Bonus" frame="p" x="69" y="149"/>
+	<cas type="Bonus" frame="p" x="71" y="136"/>
+	<cas type="Bonus" frame="p" x="72" y="-23"/>
+	<cas type="Bonus" frame="p" x="74" y="-22"/>
+	<cas type="Bonus" frame="p" x="76" y="91"/>
+	<cas type="Bonus" frame="p" x="78" y="-23"/>
+	<cas type="Bonus" frame="p" x="78" y="-20"/>
+	<cas type="Bonus" frame="p" x="79" y="-145"/>
+	<cas type="Bonus" frame="p" x="79" y="52"/>
+	<cas type="Bonus" frame="p" x="80" y="120"/>
+	<cas type="Bonus" frame="p" x="86" y="-21"/>
+	<cas type="Bonus" frame="p" x="86" y="-193"/>
+	<cas type="Bonus" frame="p" x="87" y="-181"/>
+	<cas type="Bonus" frame="p" x="87" y="-191"/>
+	<cas type="Bonus" frame="p" x="88" y="46"/>
+	<cas type="Bonus" frame="p" x="92" y="32"/>
+	<cas type="Bonus" frame="p" x="97" y="-113"/>
+	<cas type="Bonus" frame="p" x="97" y="100"/>
+	<cas type="Bonus" frame="p" x="97" y="110"/>
+	<cas type="Bonus" frame="p" x="105" y="-63"/>
+	<cas type="Bonus" frame="p" x="107" y="-112"/>
+	<cas type="Bonus" frame="p" x="110" y="-18"/>
+	<cas type="Bonus" frame="p" x="110" y="-117"/>
+	<cas type="Bonus" frame="p" x="112" y="-119"/>
+	<cas type="Bonus" frame="p" x="112" y="143"/>
+	<cas type="Bonus" frame="p" x="125" y="-19"/>
+	<cas type="Bonus" frame="p" x="132" y="-90" ><remarque>Deux bonus P ici</remarque></cas>
+	<cas type="Bonus" frame="p" x="134" y="44"/>
+	<cas type="Bonus" frame="p" x="146" y="-126"/>
+	<cas type="Bonus" frame="p" x="147" y="-172"/>
+	<cas type="Bonus" frame="p" x="149" y="-37"/>
+	<cas type="Bonus" frame="p" x="149" y="20" ><remarque>Sur la droite. On peut prendre le O sans souci.</remarque></cas>
+	<cas type="Bonus" frame="p" x="157" y="20" ><remarque>En haut à gauche, au milieu d'autres bonus !</remarque></cas>
+	<cas type="Bonus" frame="p" x="162" y="-190"/>
+	<cas type="Bonus" frame="p" x="163" y="-38"/>
+	<cas type="Bonus" frame="p" x="166" y="-148"/>
+	<cas type="Bonus" frame="p" x="169" y="-48" ><remarque>Sur la gauche. Niveau super facile.</remarque></cas>
+	<cas type="Bonus" frame="p" x="173" y="-108"/>
+	<cas type="Bonus" frame="p" x="175" y="-191"/>
+	<cas type="Bonus" frame="p" x="196" y="-55"/>
+	<cas type="Bonus" frame="p" x="199" y="-71"/>
+	<cas type="Bonus" frame="p" x="236" y="85"/>
+	<cas type="Bonus" frame="p" x="294" y="152"/>
+	<cas type="Bonus" frame="p" x="379" y="110"/>
+	<cas type="Bonus" frame="p" x="380" y="-67"/>
+	<cas type="Bonus" frame="p" x="411" y="84"/>
+	<cas type="Bonus" frame="p" x="415" y="87"/>
+	<cas type="Bonus" frame="p" x="416" y="93"/>
+	
+	<cas type="TrouNoir" x="-9" y="-7" xf="48" yf="23" ><remarque>[48][23]</remarque></cas>
+	<cas type="TrouNoir" x="48" y="23" xf="-9" yf="-7" ><remarque>[-9][-7]</remarque></cas>
+	
+	<cas type="TrouNoir" x="-230" y="1" xf="5" yf="-61" ><remarque>[5][-61]</remarque></cas>
+	<cas type="TrouNoir" x="5" y="-61" xf="-230" yf="1" ><remarque>[-230][1]</remarque></cas>
+	
+	<cas type="TrouNoir" x="121" y="-50" xf="334" yf="-162" ><remarque>[334][-162]</remarque></cas>
+	<cas type="TrouNoir" x="334" y="-162" xf="121" yf="-50" ><remarque>[121][-50]</remarque></cas>
+	
+	
+	<cas type="TrouNoir" x="-106" y="54" xf="62" yf="-142" ><remarque>[62][-142]</remarque></cas>
+	<cas type="TrouNoir" x="62" y="-142" xf="-106" yf="54" ><remarque>[-106][54]</remarque></cas>
+	
+	<cas type="TrouNoir" x="-85" y="-232" xf="-19" yf="143" ><remarque>[-19][143]</remarque></cas>
+	<cas type="TrouNoir" x="-19" y="143" xf="-85" yf="-232" ><remarque>[-85][-232]</remarque></cas>
+	
+		
+	<cas type="Antiradar" x="50" y="17"/>
+	<cas type="Antiradar" x="50" y="13"/>
+	<cas type="Antiradar" x="49" y="17"/>
+	<cas type="Antiradar" x="48" y="12"/>
+	<cas type="Antiradar" x="45" y="16"/>
+	<cas type="Antiradar" x="44" y="14"/>
+	<cas type="Antiradar" x="-7" y="-11"/>
+	<cas type="Antiradar" x="-8" y="-11"/>
+	<cas type="Antiradar" x="-8" y="-12"/>
+	<cas type="Antiradar" x="-8" y="-9"/>
+	<cas type="Antiradar" x="-8" y="-13"/>
+	<cas type="Antiradar" x="-9" y="-9"/>
+	<cas type="Antiradar" x="-9" y="-11"/>
+	<cas type="Antiradar" x="-10" y="-8"/>
+	<cas type="Antiradar" x="-10" y="-9"/>
+	<cas type="Antiradar" x="-10" y="-11"/>
+	<cas type="Antiradar" x="-10" y="-12"/>
+	<cas type="Antiradar" x="-10" y="-14"/>
+	<cas type="Antiradar" x="-11" y="-9"/>
+	<cas type="Antiradar" x="-11" y="-12"/>
+	<cas type="Antiradar" x="-12" y="-9"/>
+	<cas type="Antiradar" x="-12" y="-10"/>
+	<cas type="Antiradar" x="-12" y="-12"/>
+	<cas type="Antiradar" x="-13" y="-11"/>
+	<cas type="Antiradar" x="-17" y="42"/>
+	<cas type="Antiradar" x="-18" y="39"/>
+	<cas type="Antiradar" x="-19" y="46"/>
+	<cas type="Antiradar" x="-22" y="49"/>
+	<cas type="Antiradar" x="-25" y="45"/>
+	<cas type="Antiradar" x="-26" y="38"/>
+	<cas type="Antiradar" x="-26" y="42"/>
+	<cas type="Antiradar" x="-26" y="43"/>
+	<cas type="Antiradar" x="-26" y="45"/>
+	<cas type="Antiradar" x="-26" y="46"/>
+	<cas type="Antiradar" x="-27" y="40"/>
+	<cas type="Antiradar" x="-27" y="41"/>
+	<cas type="Antiradar" x="-27" y="42"/>
+	<cas type="Antiradar" x="-27" y="43"/>
+	<cas type="Antiradar" x="-27" y="44"/>
+	<cas type="Antiradar" x="-28" y="43"/>
+	<cas type="Antiradar" x="-60" y="-32"/>
+	<cas type="Antiradar" x="-62" y="-30"/>
+	<cas type="Antiradar" x="-68" y="-37"/>
+	<cas type="Antiradar" x="-72" y="-28"/>
+	<cas type="Antiradar" x="-72" y="-32"/>
+	<cas type="Antiradar" x="-73" y="-32"/>
+	<cas type="Antiradar" x="-73" y="-35"/>
+	
+	<cas type="Missile" x="-1" y="-2" ><remarque>n°1</remarque></cas>
+	<cas type="Missile" x="-8" y="-1" ><remarque>n°2</remarque></cas>
+	<cas type="Missile" x="8" y="-2" ><remarque>n°3</remarque></cas>
+	<cas type="Missile" x="5" y="8" ><remarque>n°4</remarque></cas>
+	<cas type="Missile" x="-10" y="-5" ><remarque>n°5</remarque></cas>
+	<cas type="Missile" x="14" y="1" ><remarque>n°6</remarque></cas>
+	<cas type="Missile" x="4" y="16" ><remarque>n°7</remarque></cas>
+	<cas type="Missile" x="-17" y="11" ><remarque>n°8</remarque></cas>
+	<cas type="Missile" x="13" y="-21" ><remarque>n°9</remarque></cas>
+	<cas type="Missile" x="16" y="25" ><remarque>n°10</remarque></cas>
+	<cas type="Missile" x="-34" y="-7" ><remarque>n°11</remarque></cas>
+	<cas type="Missile" x="39" y="-14" ><remarque>n°12</remarque></cas>
+	<cas type="Missile" x="-38" y="29" ><remarque>n°13</remarque></cas>
+	<cas type="Missile" x="-33" y="-45" ><remarque>peut-être n°14</remarque></cas>
+	<cas type="Missile" x="54" y="35" ><remarque>n°15</remarque></cas>
+	<cas type="Missile" x="-21" y="-70" ><remarque>peut-être n°16</remarque></cas>
+	<cas type="Missile" x="-20" y="80" ><remarque>peut-être n°17</remarque></cas>
+	<cas type="Missile" x="56" y="-74" ><remarque>n°18</remarque></cas>
+	<cas type="Missile" x="-29" y="111" ><remarque>peut-être n°19</remarque></cas>
+	<cas type="Missile" x="72" y="74" ><remarque>n°19</remarque></cas>
+	
+	<cas type="Missile" x="131" y="48" ><remarque>n°22</remarque></cas>
+	
+	<cas type="Missile" x="166" y="21" ><remarque>n°24</remarque></cas>
+	<cas type="Missile" x="-101" y="151" ><remarque>n°25</remarque></cas>
+	<cas type="Missile" x="174" y="-94" ><remarque>n°26</remarque></cas>
+	<cas type="Missile" x="-109" y="-65" ><remarque>peut-être n°27</remarque></cas>
+	<cas type="Missile" x="147" y="155" ><remarque>peut-être n°27</remarque></cas>
+	<cas type="Missile" x="-58" y="-142" ><remarque>peut-être n°28</remarque></cas>
+	<cas type="Missile" x="-2" y="-231" ><remarque>peut-être n°29</remarque></cas>
+	<cas type="Missile" x="-33" y="-264" ><remarque>n°30</remarque></cas>
+	<cas type="Missile" x="-297" y="66" ><remarque>peut-être n°32</remarque></cas>
+	
+	<cas type="Missile" x="282" y="40" ><remarque>peut-être n°33</remarque></cas>
+	<cas type="Missile" x="-154" y="195" ><remarque>peut-être n°34</remarque></cas>
+	<cas type="Missile" x="380" y="-79" ><remarque>peut-être n°35</remarque></cas>
+	<cas type="Missile" x="-158" y="307" ><remarque>peut-être n°36</remarque></cas>
+	<cas type="Missile" x="182" y="-420" ><remarque>peut-être n°37</remarque></cas>
+	<cas type="Missile" x="-344" y="-265" ><remarque>ou 265<br/>peut-être n°38</remarque></cas>
+	<cas type="Missile" x="-344" y="265" ><remarque>ou -265<br/>peut-être n°38</remarque></cas>
+	
+	
+	<cas type="Mission" frame="antimatiere" x="-30" y="42"/>
+	<cas type="Mission" frame="antimatiere" x="30" y="61"/>
+	<cas type="Mission" frame="antimatiere" x="18" y="-40"/>
+	<cas type="Mission" frame="antimatiere" x="35" y="-28"/>
+	
+	<cas type="Mission" frame="turquoise" x="-54" y="49"/>
+	<cas type="Mission" frame="orange" x="170" y="-100"/>
+	<cas type="Mission" frame="rouge" x="25" y="-110"/>
+	<cas type="Mission" frame="bleu" x="-170" y="-36"/>
+	<cas type="Mission" frame="verte" x="-37" y="176"/>
+	<cas type="Mission" frame="jaune" x="115" y="80"/>
+	<cas type="Mission" frame="violet" x="-97" y="-174"/>
+	
+	<cas type="Mission" frame="medcouronne" x="-54" y="40"/>
+	<cas type="Mission" frame="medcentre" x="-58" y="30"/>
+	<cas type="Mission" frame="medcroissant" x="-51" y="37"/>
+	
+	<!--
+	<cas type="Mission" frame="crystala" x="303" y="-60"/>
+	<cas type="Mission" frame="crystalb" x="340" y="-112"/>
+	<cas type="Mission" frame="crystalc" x="281" y="-76"/>
+	<cas type="Mission" frame="crystald" x="284" y="-15"/>
+	<cas type="Mission" frame="crystale" x="350" y="-44"/>
+	-->
+	
+	<cas type="Mission" frame="tablette1" x="127" y="-24"/>
+	<cas type="Mission" frame="tablette2" x="142" y="6"/>
+	<cas type="Mission" frame="tablette3" x="119" y="65"/>
+	<cas type="Mission" frame="tablette4" x="58" y="106"/>
+	<cas type="Mission" frame="tablette5" x="-14" y="113"/>
+	<cas type="Mission" frame="tablette6" x="-67" y="66"/>
+	<cas type="Mission" frame="tablette7" x="-85" y="18"/>
+	<cas type="Mission" frame="tablette8" x="-64" y="-56"/>
+	<cas type="Mission" frame="tablette9" x="-29" y="-98"/>
+	<cas type="Mission" frame="tablette10" x="28" y="-111"/>
+	<cas type="Mission" frame="tablette11" x="65" y="-102"/>
+	<cas type="Mission" frame="tablette12" x="102" y="-64"/>
+	
+	<cas type="Mission" frame="parchemin" x="-36" y="-84"/>
+	<cas type="Mission" frame="parchemin" x="-41" y="93"/>
+	<cas type="Mission" frame="parchemin" x="-80" y="-20"/>
+	<cas type="Mission" frame="parchemin" x="-83" y="19"/>
+	<cas type="Mission" frame="parchemin" x="21" y="118"/>
+	<cas type="Mission" frame="parchemin" x="81" y="102"/>
+	<cas type="Mission" frame="parchemin" x="103" y="-73"/>
+	<cas type="Mission" frame="parchemin" x="134" y="-21"/>
+	
+	<cas type="Marchand" x="-3" y="-120" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V5 : 20000<br/>Drone n°5 : 10000<br/>Réact. Surf. Turbo X2 : 30025<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-5" y="-3" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V2 : 200<br/>Missile Sup 1 : 129<br/>Capsule Feu : 20<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-5" y="-23" >
+		<remarque>
+			Capsule Hydrogène Solide : 110<br/>Moteur V3 : 1135<br/>Moteur V5 : 20031<br/>Missile Sup 1 : 105<br/>Drone n°2 : 2404<br/>Drone n°3 : 3685<br/>Drone n°5 : 10016<br/>Collecteur : 2500<br/>Support réacteur : 1223<br/>
+
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="-5" y="-38" >
+		<remarque>
+			Capsule Hydrogène Solide : 78<br/>Moteur V5 : 26619<br/>Capsule Feu : 20<br/>Lunettes de soleil : 200<br/>Refroidissement liquide : 681<br/>
+		</remarque>
+
+	</cas>
+	<cas type="MarchandSol" x="-5" y="-39" >
+		<remarque>
+			Capsule Hydrogène Solide : 87<br/>Capsule Glace : 27<br/>Capsule Trou noir : 50<br/>Drone n°4 : 4000<br/>
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="-7" y="-39" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 63<br/>Moteur V4 : 9907<br/>Moteur V5 : 19517<br/>Capsule Trou noir : 60<br/>Drone n°4 : 6570<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-7" y="-19" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 108<br/>Moteur V4 : 7997<br/>Missile Sup 1 : 100<br/>Capsule Trou noir : 50<br/>Drone n°2 : 2313<br/>Drone n°3 : 3854<br/>Drone n°4 : 6263<br/>Drone n°5 : 9635<br/>Collecteur : 2519<br/>
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="-8" y="-37" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 53<br/>Drone n°9 : 39132<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-9" y="-37" >
+		<remarque>
+			Capsule Hydrogène Solide : 69<br/>Missile Sup 1 : 100<br/>Capsule Feu : 20<br/>Capsule Foudre : 30<br/>Drone n°2 : 2400<br/>Drone n°3 : 4000<br/>Drone n°4 : 4363<br/>Drone n°5 : 10000<br/>Collecteur : 2960<br/>
+
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="-11" y="-43" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Capsule Foudre : 33<br/>Refroidissement liquide : 578<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="-12" y="-1" >
+		<remarque>
+			Capsule Hydrogène Solide : 95<br/>Missile Sup 1 : 100<br/>
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="-13" y="-42" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V4 : 9306<br/>Capsule Feu : 25<br/>Capsule Foudre : 30<br/>Drone n°3 : 3997<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-14" y="-18" >
+		<remarque>
+			Capsule Hydrogène Solide : 88<br/>Moteur V3 : 862<br/>Missile Sup 1 : 100<br/>Missile Sup 2 : 1007<br/>Capsule Glace : 43<br/>Capsule Feu : 12<br/>Capsule Foudre : 30<br/>Drone n°2 : 2703<br/>Drone n°3 : 4505<br/>Drone n°4 : 7321<br/>Collecteur : 2103<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-18" y="-17" >
+		<remarque>
+			Capsule Hydrogène Solide : 92<br/>Moteur V4 : 8031<br/>Missile Sup 1 : 96<br/>Collecteur : 2824<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="-23" y="-5" >
+		<remarque>
+			Capsule Hydrogène Solide : 81<br/>Moteur V2 : 199<br/>Moteur V3 : 788<br/>Missile Sup 1 : 98<br/>Missile Sup 2 : 952<br/>Capsule Glace : 30<br/>Capsule Feu : 20<br/>Réacteurs latéraux : 141<br/>Drone n°1 : 693<br/>Drone n°2 : 1386<br/>Drone n°3 : 2309<br/>Drone n°4 : 3752<br/>Drone n°5 : 5771<br/>Drone n°6 : 11946<br/>Outil de perforation : 8228<br/>Collecteur : 2984<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-26" y="-110" >
+		<remarque>
+			Capsule Hydrogène Solide : 59<br/>Moteur V5 : 19975<br/>Capsule Feu : 24<br/>Capsule Foudre : 42<br/>Moteur de synthèse perpétuel : 13039<br/>Réact. Surf. Turbo : 7500<br/>
+		</remarque>
+
+	</cas>
+	<cas type="Marchand" x="-30" y="-5" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Missile Sup 1 : 102<br/>Capsule Feu : 17<br/>Capsule Foudre : 30<br/>Lunettes de soleil : 200<br/>Collecteur : 1366<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="-30" y="-55" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Capsule Glace : 30<br/>Capsule Foudre : 28<br/>Drone n°5 : 9825<br/>Drone n°6 : 14344<br/>Réact. Surf. Turbo : 4826<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-32" y="-54" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 105<br/>Capsule Foudre : 29<br/>Drone n°5 : 10415<br/>Drone n°6 : 15207<br/>Réact. Surf. Turbo : 7497<br/>
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="-33" y="-9" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 88<br/>Missile Sup 1 : 100<br/>Capsule Feu : 19<br/>Lunettes de soleil : 273<br/>Drone n°3 : 4130<br/>Drone n°5 : 10325<br/>Drone n°6 : 15074<br/>Collecteur : 2500<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-33" y="-74" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 110<br/>Ext. Pod Standard : 3500<br/>Drone n°5 : 13012<br/>Support réacteur : 1250<br/>
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="-34" y="-10" >
+		<remarque>
+			Capsule Hydrogène Solide : 121<br/>Missile Sup 1 : 100<br/>Drone n°3 : 4136<br/>Drone n°4 : 6721<br/>Drone n°6 : 15097<br/>Collecteur : 2901<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-37" y="-21" >
+		<remarque>
+			Capsule Hydrogène Solide : 106<br/>Moteur V4 : 8020<br/>Missile Sup 1 : 100<br/>Capsule Glace : 17<br/>Outil de perforation : 5798<br/>Collecteur : 2482<br/>
+		</remarque>
+
+	</cas>
+	<cas type="Marchand" x="-40" y="-76" >
+		<remarque>
+			Capsule Hydrogène Solide : 89<br/>Moteur V6 : 160307<br/>Capsule Glace : 25<br/>Capsule Foudre : 30<br/>Moteur de synthèse perpétuel : 16145<br/>
+		</remarque>
+	</cas>
+
+	<cas type="MarchandSol" x="-41" y="-12" >
+		<remarque>
+			Capsule Hydrogène Solide : 87<br/>Drone n°6 : 14515<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-42" y="-9" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Missile Sup 1 : 104<br/>Drone n°1 : 724<br/>Drone n°2 : 1448<br/>Drone n°4 : 3920<br/>Drone n°5 : 6030<br/>Drone n°6 : 8803<br/>Outil de perforation : 4881<br/>Collecteur : 2984<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-45" y="-103" >
+		<remarque>
+			Capsule Hydrogène Solide : 97<br/>Moteur V4 : 10137<br/>Capsule Glace : 17<br/>Outil de perforation : 6333<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="-50" y="-47" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Capsule Foudre : 30<br/>Réact. Surf. Turbo : 7375<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-50" y="-5" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 85<br/>Moteur V4 : 11483<br/>Outil de perforation : 5500<br/>Collecteur : 2603<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-51" y="-23" >
+		<remarque>
+			Moteur V5 : en vente<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-54" y="-45" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Capsule Foudre : 30<br/>Réact. Surf. Turbo : 8880<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="-66" y="-99" >
+		<remarque>
+			Capsule Hydrogène Solide : 85<br/>Capsule Feu : 26<br/>Capsule Foudre : 30<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-77" y="-164" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 90<br/>Capsule Feu : 20<br/>Carte des missiles : 2000<br/>Antenne Ki-Wi : 4850<br/>Ext. Pod Standard : 3471<br/>Collecteur : 2500<br/>Support réacteur : 1402<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-78" y="-141" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 90<br/>Moteur V6 : 159569<br/>Moteur de synthèse perpétuel : 16000<br/>Drone n°6 : 13289<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-79" y="-37" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Carte des missiles : 1158<br/>Refroidissement liquide : 828<br/>Réact. Surf. Turbo : 8731<br/>
+
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="-80" y="-107" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Antenne Ki-Wi : 4878<br/>Moteur de synthèse perpétuel : 16000<br/>Réact. Surf. Turbo X2 : 31139<br/>
+		</remarque>
+	</cas>
+
+	<cas type="MarchandSol" x="-82" y="-101" >
+		<remarque>
+			Capsule Hydrogène Solide : 114<br/>Moteur V6 : 160017<br/>Drone n°7 : 20711<br/>
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="-84" y="-105" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 97<br/>Moteur V5 : 20000<br/>Moteur V6 : 157932<br/>
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="-84" y="-96" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V4 : 9622<br/>Moteur V6 : 156260<br/>Antenne Ki-Wi : 4850<br/>
+
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="-89" y="-106" >
+		<remarque>
+			Capsule Hydrogène Solide : 99<br/>Capsule Glace : 30<br/>Capsule Foudre : 26<br/>Convertisseur : 11581<br/>
+		</remarque>
+	</cas>
+
+	<cas type="MarchandSol" x="-90" y="-101" >
+		<remarque>
+			Capsule Hydrogène Solide : 87<br/>Antenne Ki-Wi : 6617<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-91" y="-58" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Drone n°5 : 6276<br/>Drone n°6 : 9163<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-96" y="-23" >
+		<remarque>
+			Capsule Hydrogène Solide : 95<br/>Moteur de synthèse perpétuel : 15975<br/>Drone n°5 : 8912<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="-97" y="-43" >
+		<remarque>
+			Capsule Hydrogène Solide : 87<br/>Réact. Surf. Turbo X2 : 29911<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-98" y="-24" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Capsule Foudre : 30<br/>Capsule Trou noir : 28<br/>Carte des missiles : 2002<br/>Drone n°3 : 4118<br/>Drone n°5 : 10295<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-102" y="-83" >
+		<remarque>
+			Capsule Hydrogène Solide : 88<br/>Moteur V6 : 158013<br/>Moteur de synthèse perpétuel : 16031<br/>Drone n°2 : 3566<br/>Drone n°5 : 14861<br/>Réact. Surf. Turbo : 5148<br/>
+		</remarque>
+
+	</cas>
+	<cas type="Marchand" x="-109" y="-67" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Ext. Pod Standard : 3283<br/>Drone n°5 : 10008<br/>Drone n°7 : 20717<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-114" y="-20" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Drone n°5 : 11515<br/>Support réacteur : 860<br/>Réact. Surf. Turbo : 5084<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-118" y="-24" >
+		<remarque>
+			Capsule Hydrogène Solide : 80<br/>Moteur V6 : 163550<br/>Moteur de synthèse perpétuel : 15979<br/>Drone n°5 : 13987<br/>Réact. Surf. Turbo : 5763<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-122" y="-9" >
+		<remarque>
+			Capsule Hydrogène Solide : 104<br/>Réact. Surf. Turbo X2 : 21603<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-128" y="-114" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V4 : 8000<br/>Moteur V6 : 164004<br/>Moteur de synthèse perpétuel : 16000<br/>Ext. Pod Standard : 3461<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-132" y="-6" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 116<br/>Drone n°7 : 24263<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-137" y="-124" >
+		<remarque>
+			Capsule Hydrogène Solide : 102<br/>Moteur V4 : 11952<br/>Capsule Glace : 44<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-139" y="-74" >
+		<remarque>
+			Capsule Hydrogène Solide : 80<br/>Refroidissement liquide : 845<br/>Réact. Surf. Turbo : 7503<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="-148" y="-223" >
+		<remarque>
+			Capsule Hydrogène Solide : 77<br/>Capsule Glace : 30<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-158" y="-218" >
+		<remarque>
+			Capsule Hydrogène Solide : 46<br/>Ext. Pod Standard : 3500<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-162" y="-39" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V5 : 12868<br/>Missile Sup 2 : 1003<br/>Capsule Glace : 36<br/>Moteur de synthèse perpétuel : 16874<br/>Ext. Pod Standard : 2801<br/>Réact. Surf. Turbo : 8012<br/>Réact. Surf. Turbo X2 : 30281<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-172" y="-17" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V5 : 25728<br/>Moteur V6 : 159894<br/>Missile Sup 1 : 100<br/>Drone n°3 : 3330<br/>Réact. Surf. Turbo : 7500<br/>
+		</remarque>
+
+	</cas>
+	<cas type="Marchand" x="-1" y="113" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Capsule Feu : 14<br/>Antenne Ki-Wi : 3493<br/>Refroidissement liquide : 570<br/>Drone n°4 : 6263<br/>Drone n°5 : 9635<br/>Drone n°6 : 14067<br/>Drone n°7 : 19944<br/>Réact. Surf. Turbo : 8618<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-2" y="3" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V2 : 269<br/>Missile Sup 1 : 98<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="-5" y="35" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Capsule Foudre : 30<br/>Drone n°1 : 1294<br/>Drone n°2 : 2589<br/>Drone n°3 : 4315<br/>Drone n°4 : 7011<br/>Drone n°5 : 10787<br/>Collecteur : 2575<br/>
+		</remarque>
+	</cas>
+
+	<cas type="MarchandSol" x="-6" y="14" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V4 : 8006<br/>Capsule Feu : 29<br/>Capsule Foudre : 32<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-6" y="71" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 90<br/>Moteur V5 : 20033<br/>Missile Sup 2 : 950<br/>Capsule Feu : 26<br/>Capsule Foudre : 29<br/>Réact. Surf. Turbo : 4289<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-6" y="82" >
+		<remarque>
+			Capsule Hydrogène Solide : 123<br/>Moteur V4 : 4891<br/>Moteur de synthèse perpétuel : 15852<br/>Outil de perforation : 5520<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-8" y="8" >
+		<remarque>
+			Capsule Hydrogène Solide : 114<br/>Moteur V2 : 200<br/>Moteur V3 : 1000<br/>Missile Sup 1 : 100<br/>Capsule Foudre : 27<br/>
+		</remarque>
+
+	</cas>
+	<cas type="Marchand" x="-8" y="14" >
+		<remarque>
+			Capsule Hydrogène Solide : 96<br/>Moteur V2 : 200<br/>Moteur V3 : 1069<br/>Missile Sup 1 : 136<br/>Drone n°1 : 1660<br/>Drone n°2 : 3331<br/>Drone n°3 : 5535<br/>Drone n°4 : 8994<br/>Drone n°5 : 13837<br/>
+
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="-8" y="111" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Convertisseur : 11500<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-10" y="24" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V5 : 16356<br/>Missile Sup 1 : 90<br/>Capsule Foudre : 30<br/>Enveloppe de secours : 543<br/>Lunettes de soleil : 211<br/>Collecteur : 2550<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-13" y="8" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 62<br/>Missile Sup 1 : 107<br/>Capsule Feu : 20<br/>Enveloppe de secours : 470<br/>Réacteurs latéraux : 334<br/>Drone n°1 : 1550<br/>Drone n°2 : 3100<br/>Drone n°3 : 5167<br/>Drone n°5 : 12917<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="-14" y="79" >
+		<remarque>
+			Capsule Hydrogène Solide : 50<br/>Capsule Glace : 30<br/>Capsule Foudre : 30<br/>Enveloppe de secours : 632<br/>Moteur de synthèse perpétuel : 16982<br/>Drone n°1 : 978<br/>Drone n°4 : 5298<br/>Drone n°5 : 8150<br/>
+		</remarque>
+	</cas>
+
+	<cas type="MarchandSol" x="-16" y="83" >
+		<remarque>
+			Capsule Hydrogène Solide : 84<br/>
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="-17" y="86" >
+		<remarque>
+			Capsule Hydrogène Solide : 103<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-18" y="82" >
+		<remarque>
+			Capsule Hydrogène Solide : 47<br/>Missile Sup 1 : 72<br/>Capsule Foudre : 30<br/>Carte des missiles : 2757<br/>Lunettes de soleil : 200<br/>Réacteurs latéraux : 144<br/>Moteur de synthèse perpétuel : 12932<br/>Drone n°3 : 4496<br/>Drone n°4 : 7307<br/>Drone n°5 : 11242<br/>Drone n°6 : 16413<br/>Drone n°7 : 23271<br/>Support réacteur : 1156<br/>
+
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="-18" y="83" >
+		<remarque>
+			Capsule Hydrogène Solide : 86<br/>Drone n°6 : 14569<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-18" y="61" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 89<br/>Missile Sup 1 : 100<br/>Capsule Trou noir : 38<br/>Carte des missiles : 2767<br/>Réact. Surf. Turbo : 7335<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-18" y="127" >
+		<remarque>
+
+			Capsule Glace : 30<br/>Moteur de synthèse perpétuel : 15882<br/>Drone n°5 : 10000<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-20" y="2" >
+		<remarque>
+			Capsule Hydrogène Solide : 87<br/>Missile Sup 1 : 77<br/>Capsule Feu : 20<br/>Refroidissement liquide : 450<br/>Collecteur : 2588<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-20" y="25" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V4 : 8091<br/>Moteur V5 : 20058<br/>Missile Sup 1 : 105<br/>Missile Sup 2 : 1383<br/>Capsule Feu : 19<br/>Lunettes de soleil : 131<br/>Drone n°1 : 1198<br/>Drone n°2 : 2395<br/>Drone n°3 : 3991<br/>Drone n°4 : 6485<br/>Drone n°5 : 9997<br/>Drone n°6 : 145<br/>Collecteur : 2509<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-21" y="16" >
+		<remarque>
+			Capsule Hydrogène Solide : 89<br/>Moteur V4 : 8001<br/>Missile Sup 1 : 100<br/>Capsule Glace : 22<br/>Collecteur : 2457<br/>
+		</remarque>
+
+	</cas>
+	<cas type="Marchand" x="-22" y="10" >
+		<remarque>
+			Capsule Hydrogène Solide : 119<br/>Missile Sup 1 : 100<br/>Capsule Trou noir : 62<br/>Enveloppe de secours : 620<br/>Drone n°1 : 1200<br/>Drone n°2 : 2400<br/>Drone n°3 : 4000<br/>Drone n°4 : 6500<br/>Drone n°5 : 10000<br/>Outil de perforation : en vente<br/>Collecteur : 2170<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-23" y="13" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V4 : 7864<br/>Missile Sup 1 : 99<br/>Capsule Feu : 17<br/>Capsule Trou noir : 50<br/>Drone n°1 : 1457<br/>Drone n°2 : 2914<br/>Drone n°3 : 4856<br/>Drone n°4 : 7892<br/>Drone n°5 : 12141<br/>Collecteur : 2500<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-27" y="114" >
+		<remarque>
+			Capsule Hydrogène Solide : 97<br/>Capsule Glace : 37<br/>Capsule Feu : 20<br/>Carte des missiles : 2140<br/>Antenne Ki-Wi : 4946<br/>Moteur de synthèse perpétuel : 14991<br/>Drone n°2 : 2 400 ?<br/>Drone n°4 : 6500<br/>Drone n°5 : 10000<br/>Drone n°6 : 14600<br/>Drone n°7 : 20700<br/>Collecteur : 2504<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-37" y="30" >
+		<remarque>
+			Capsule Hydrogène Solide : 87<br/>Moteur V3 : 1000<br/>Missile Sup 1 : 82<br/>Capsule Trou noir : 50<br/>Drone n°1 : 895<br/>Drone n°2 : 1789<br/>Drone n°3 : 2981<br/>Drone n°4 : 4844<br/>Drone n°5 : 7451<br/>Collecteur : 2513<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-37" y="89" >
+		<remarque>
+			Moteur V4 : 8287<br/>Outil de perforation : 5500<br/>Collecteur : 2220<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="-39" y="24" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Missile Sup 1 : 100<br/>Drone n°2 : 2418<br/>Drone n°3 : 4030<br/>Drone n°4 : 6549<br/>Drone n°5 : 10000<br/>Drone n°6 : 14712<br/>Collecteur : 2557<br/>Réact. Surf. Turbo : 6974<br/>
+		</remarque>
+
+	</cas>
+	<cas type="Marchand" x="-39" y="101" >
+		<remarque>
+			Capsule Hydrogène Solide : 49<br/>Missile Sup 2 : 974<br/>Capsule Glace : 32<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-44" y="78" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Missile Sup 2 : 986<br/>Capsule Feu : 27<br/>Refroidissement liquide : 518<br/>Moteur de synthèse perpétuel : 16000<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-45" y="48" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 73<br/>Carte des missiles : 1996<br/>Collecteur : en vente<br/>Réact. Surf. Turbo : 7311<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-46" y="3" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Missile Sup 1 : 100<br/>Missile Sup 2 : 1000<br/>Capsule Feu : 27<br/>Capsule Foudre : 31<br/>Capsule Trou noir : 49<br/>Collecteur : 2536<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-49" y="143" >
+		<remarque>
+			Capsule Hydrogène Solide : 87<br/>Drone n°6 : 14442<br/>
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="-53" y="28" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 104<br/>Drone n°6 : 14655<br/>
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="-54" y="34" >
+		<remarque>
+			Capsule Hydrogène Solide : 91<br/>Moteur V5 : 22717<br/>Carte des missiles : 2375<br/>Ext. Pod Standard : 5049<br/>Outil de perforation : 5446<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-56" y="85" >
+		<remarque>
+			Capsule Hydrogène Solide : 75<br/>Capsule Foudre : 33<br/>Moteur de synthèse perpétuel : 15993<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="-57" y="1" >
+		<remarque>
+			Capsule Hydrogène Solide : 92<br/>Moteur V4 : 7995<br/>Capsule Feu : 19<br/>Capsule Foudre : 30<br/>
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="-58" y="32" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 112<br/>Capsule Feu : 18<br/>Drone n°4 : 6543<br/>Réact. Surf. Turbo : 8009<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-59" y="8" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Capsule Glace : 30<br/>Capsule Foudre : 30<br/>Drone n°3 : 5574<br/>Drone n°4 : 9059<br/>Drone n°5 : 13937<br/>Outil de perforation : 5784<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-61" y="34" >
+		<remarque>
+			Capsule Hydrogène Solide : 68<br/>Réact. Surf. Turbo : en vente<br/>
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="-61" y="38" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Réact. Surf. Turbo : 7500<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-61" y="47" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Capsule Glace : 19<br/>Refroidissement liquide : 580<br/>Moteur de synthèse perpétuel : 16007<br/>Collecteur : 1896<br/>Réact. Surf. Turbo : 7501<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-62" y="77" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Missile Sup 2 : 1000<br/>Capsule Feu : 18<br/>Drone n°5 : 10021<br/>Drone n°6 : 14630<br/>Drone n°7 : 20743<br/>Réact. Surf. Turbo : 7524<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-64" y="0" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Missile Sup 2 : 1001<br/>Capsule Feu : 20<br/>Drone n°3 : 2617<br/>Drone n°4 : 4252<br/>Réact. Surf. Turbo : 7543<br/>
+		</remarque>
+
+	</cas>
+	<cas type="Marchand" x="-68" y="118" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Capsule Feu : 21<br/>Antenne Ki-Wi : 4265<br/>Refroidissement liquide : 802<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-71" y="55" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 134<br/>Missile Sup 2 : 1000<br/>Capsule Feu : 20<br/>Capsule Foudre : 30<br/>Réacteurs latéraux : 240<br/>Drone n°5 : 10000<br/>Réact. Surf. Turbo : 7821<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-80" y="36" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 70<br/>Missile Sup 2 : 1000<br/>Moteur de synthèse perpétuel : 18531<br/>Drone n°3 : 3340<br/>Drone n°4 : 5428<br/>Drone n°5 : 8350<br/>Drone n°6 : 12191<br/>Réact. Surf. Turbo : 6364<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-82" y="60" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Capsule Feu : 20<br/>Capsule Foudre : 30<br/>Lunettes de soleil : 232<br/>Réacteurs latéraux : 240<br/>Refroidissement liquide : 570<br/>Moteur de synthèse perpétuel : 15865<br/>Collecteur : 3602<br/>Réact. Surf. Turbo X2 : 40062<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="-95" y="131" >
+		<remarque>
+			Capsule Hydrogène Solide : 123<br/>Moteur V6 : 134281<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-96" y="143" >
+		<remarque>
+			Moteur V6 : 126070<br/>Collecteur : 3667<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-98" y="82" >
+		<remarque>
+			Drone n°6 : 16413<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-98" y="154" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 126<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-127" y="74" >
+		<remarque>
+			Capsule Hydrogène Solide : 78<br/>Capsule Glace : 30<br/>Capsule Foudre : 30<br/>Capsule Trou noir : 50<br/>Carte des missiles : 1373<br/>Antenne Ki-Wi : 4041<br/>Réacteurs latéraux : 232<br/>Refroidissement liquide : 723<br/>Collecteur : 2921<br/>Support réacteur : 1265<br/>Convertisseur : 11698<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-141" y="173" >
+		<remarque>
+			Capsule Hydrogène Solide : 78<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-148" y="155" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 134<br/>Missile Sup 3 : 9984<br/>Drone n°6 : 14600<br/>
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="-153" y="114" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V5 : 20351<br/>Missile Sup 2 : 1001<br/>Capsule Feu : 17<br/>Antenne Ki-Wi : 4850<br/>
+
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="-154" y="113" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V6 : 155389<br/>Antenne Ki-Wi : 4622<br/>Refroidissement liquide : 561<br/>Réact. Surf. Turbo X2 : 25947<br/>
+		</remarque>
+
+	</cas>
+	<cas type="MarchandSol" x="-155" y="108" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V5 : 17544<br/>Moteur V6 : 171222<br/>Capsule Foudre : 30<br/>Moteur de synthèse perpétuel : 15999<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="-156" y="66" >
+		<remarque>
+			Capsule Trou noir : 44<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-167" y="102" >
+		<remarque>
+			Capsule Foudre : 30<br/>Capsule Trou noir : 50<br/>Drone n°4 : 6498<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-170" y="71" >
+		<remarque>
+			Capsule Trou noir : 50<br/>Drone n°4 : 6711<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-209" y="85" >
+
+		<remarque>
+			Capsule Feu : 20<br/>Antenne Ki-Wi : 4847<br/>Drone n°3 : 2796<br/>Drone n°4 : 4543<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-263" y="67" >
+		<remarque>
+			Antenne Ki-Wi : 3136<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-292" y="153" >
+		<remarque>
+			Capsule Hydrogène Solide : 95<br/>Capsule Foudre : 30<br/>Capsule Trou noir : 50<br/>Carte des missiles : 2123<br/>Réact. Surf. Turbo : 3840<br/>
+		</remarque>
+
+	</cas>
+	<cas type="Marchand" x="-338" y="33" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V4 : 7637<br/>Antenne Ki-Wi : 5321<br/>Moteur de synthèse perpétuel : 16232<br/>Convertisseur : 11405<br/>Réact. Surf. Turbo : 9522<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="-357" y="152" >
+		<remarque>
+			Capsule Hydrogène Solide : 113<br/>Capsule Feu : 20<br/>Ext. Pod Spécial : 11459<br/>Drone n°3 : 4014<br/>Réact. Surf. Turbo : 7495<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-420" y="79" >
+
+		<remarque>
+			Moteur V6 : 160010<br/>Antenne Ki-Wi : 4850<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="-508" y="139" >
+		<remarque>
+			Capsule Hydrogène Solide : 87<br/>Moteur V4 : 8000<br/>Capsule Foudre : 28<br/>Moteur de synthèse perpétuel : 16033<br/>Réact. Surf. Turbo : 7500<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="6" y="-19" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Missile Sup 1 : 100<br/>Capsule Feu : 26<br/>Capsule Foudre : 30<br/>Capsule Trou noir : 27<br/>
+		</remarque>
+
+	</cas>
+	<cas type="Marchand" x="8" y="-7" >
+		<remarque>
+			Capsule Hydrogène Solide : 86<br/>Moteur V2 : 211<br/>Missile Sup 1 : 148<br/>Capsule Foudre : 28<br/>Drone n°1 : 1200<br/>Drone n°2 : 2400<br/>Drone n°3 : 4000<br/>Drone n°4 : 6800<br/>Drone n°5 : 10000<br/>
+
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="10" y="-11" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Drone n°4 : 3705<br/>Drone n°5 : 5700<br/>Drone n°6 : 8322<br/>
+		</remarque>
+	</cas>
+
+	<cas type="MarchandSol" x="10" y="-78" >
+		<remarque>
+			Capsule Hydrogène Solide : 115<br/>Capsule Feu : 16<br/>Drone n°5 : 8073<br/>Réact. Surf. Turbo : 9228<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="15" y="-110" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 77<br/>Refroidissement liquide : 679<br/>Moteur de synthèse perpétuel : 19131<br/>Drone n°5 : 10011<br/>Drone n°9 : 38442<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="19" y="-55" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Missile Sup 1 : 100<br/>Capsule Glace : 44<br/>Réacteurs latéraux : 240<br/>Outil de perforation : 5500<br/>Convertisseur : 11500<br/>Réact. Surf. Turbo : 7635<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="20" y="-7" >
+		<remarque>
+			Capsule Hydrogène Solide : 75<br/>Missile Sup 1 : 100<br/>Capsule Glace : 30<br/>Capsule Feu : 14<br/>Capsule Foudre : 30<br/>Collecteur : 2930<br/>
+		</remarque>
+
+	</cas>
+	<cas type="Marchand" x="22" y="-18" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V3 : 994<br/>Moteur V4 : 10431<br/>Missile Sup 1 : 83<br/>Missile Sup 3 : 10000<br/>Capsule Feu : 12<br/>Capsule Foudre : 37<br/>Collecteur : 2595<br/>Convertisseur : 13739<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="26" y="-123" >
+		<remarque>
+			Missile Sup 2 : 993<br/>Lunettes de soleil : 196<br/>Antenne Ki-Wi : 4851<br/>Moteur de synthèse perpétuel : 20625<br/>Drone n°2 : 2359<br/>Collecteur : 2500<br/>
+		</remarque>
+
+	</cas>
+	<cas type="Marchand" x="27" y="-30" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V3 : 1186<br/>Missile Sup 1 : 100<br/>Capsule Foudre : 42<br/>Enveloppe de secours : 634<br/>Ext. Pod Standard : 3403<br/>Collecteur : 2500<br/>Convertisseur : 10480<br/>
+		</remarque>
+
+	</cas>
+	<cas type="Marchand" x="27" y="-78" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Missile Sup 1 : 88<br/>Carte des missiles : 2619<br/>Ext. Pod Standard : 3500<br/>Réact. Surf. Turbo : 5 500 ?<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="30" y="-21" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V4 : 6482<br/>Missile Sup 1 : 99<br/>Capsule Glace : 30<br/>Capsule Feu : 14<br/>Capsule Trou noir : 51<br/>Collecteur : 2480<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="30" y="-34" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Missile Sup 1 : 100<br/>Capsule Foudre : 37<br/>Capsule Trou noir : 35<br/>Refroidissement liquide : 545<br/>Collecteur : 2519<br/>Réact. Surf. Turbo : 6504<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="31" y="-21" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V4 : 9916<br/>Moteur V5 : 20060<br/>Missile Sup 1 : 119<br/>Capsule Feu : 22<br/>Capsule Foudre : 35<br/>Drone n°2 : 2399<br/>Drone n°3 : 3998<br/>Drone n°5 : 9995<br/>Collecteur : 2045<br/>Réact. Surf. Turbo : 7620<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="34" y="-5" >
+		<remarque>
+			Capsule Hydrogène Solide : 86<br/>Moteur V4 : 5893<br/>Moteur V5 : 24390<br/>Missile Sup 1 : 100<br/>Collecteur : 2230<br/>
+		</remarque>
+
+	</cas>
+	<cas type="Marchand" x="34" y="-159" >
+		<remarque>
+			Capsule Hydrogène Solide : 91<br/>Moteur V4 : 7454<br/>Ext. Pod Standard : 3180<br/>Drone n°4 : 8012<br/>Réact. Surf. Turbo : 7500<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="35" y="-5" >
+		<remarque>
+			Capsule Hydrogène Solide : 85<br/>Missile Sup 1 : 100<br/>Missile Sup 2 : 1028<br/>Capsule Foudre : 40<br/>Drone n°1 : 1424<br/>Drone n°2 : 2848<br/>Drone n°3 : 4747<br/>Drone n°4 : 7715<br/>Drone n°5 : 11869<br/>Drone n°6 : 17329<br/>Drone n°7 : 24570<br/>Collecteur : 3203<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="36" y="-91" >
+		<remarque>
+			Capsule Hydrogène Solide : 88<br/>Moteur V6 : 182347<br/>Capsule Foudre : 30<br/>Outil de perforation : 5670<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="39" y="-3" >
+		<remarque>
+			Capsule Hydrogène Solide : 89<br/>Moteur V5 : 20742<br/>Missile Sup 1 : 104<br/>Capsule Trou noir : 33<br/>Drone n°3 : 5014<br/>Drone n°4 : 8149<br/>Drone n°5 : 12537<br/>Drone n°6 : 18304<br/>Collecteur : 2500<br/>Support réacteur : 1124<br/>Réact. Surf. Turbo : 7500<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="45" y="-27" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Capsule Glace : 31<br/>Refroidissement liquide : 550<br/>Collecteur : 3463<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="45" y="-36" >
+		<remarque>
+			Capsule Glace : 35<br/>Capsule Feu : 21<br/>Refroidissement liquide : 570<br/>Support réacteur : 1251<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="48" y="-26" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 90<br/>Collecteur : 3463<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="50" y="-10" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Missile Sup 1 : 100<br/>Réacteurs latéraux : 240<br/>Collecteur : 2499<br/>Réact. Surf. Turbo : 7500<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="53" y="-124" >
+		<remarque>
+			Capsule Hydrogène Solide : 47<br/>Carte des missiles : 2316<br/>Drone n°5 : 7816<br/>Drone n°6 : 11411<br/>Drone n°9 : 30012<br/>
+		</remarque>
+
+	</cas>
+	<cas type="Marchand" x="55" y="-12" >
+		<remarque>
+			Capsule Hydrogène Solide : 127<br/>Moteur V4 : 10229<br/>Missile Sup 1 : 100<br/>Ext. Pod Standard : 3502<br/>Outil de perforation : 7487<br/>Collecteur : 3681<br/>
+		</remarque>
+	</cas>
+
+	<cas type="MarchandSol" x="62" y="-88" >
+		<remarque>
+			Moteur V5 : 16903<br/>Capsule Trou noir : 49<br/>Carte des missiles : 2976<br/>Moteur de synthèse perpétuel : 23592<br/>Collecteur : 2370<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="71" y="-39" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 94<br/>Moteur V5 : 23758<br/>Carte des missiles : 1989<br/>Collecteur : 2317<br/>Réact. Surf. Turbo : 7198<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="73" y="-64" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 82<br/>Moteur V4 : 6565<br/>Moteur V5 : 15139<br/>Capsule Feu : 20<br/>Drone n°3 : 5976<br/>Drone n°6 : 21812<br/>Collecteur : 1807<br/>Réact. Surf. Turbo : 6703<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="73" y="-85" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 125<br/>Capsule Glace : 30<br/>Capsule Trou noir : 55<br/>Carte des missiles : 2000<br/>Collecteur : 2500<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="75" y="-177" >
+		<remarque>
+			Capsule Hydrogène Solide : 128<br/>Capsule Glace : 30<br/>Lunettes de soleil : 200<br/>Antenne Ki-Wi : 5241<br/>Moteur de synthèse perpétuel : 15360<br/>Ext. Pod Standard : 3354<br/>Drone n°4 : 5461<br/>Réact. Surf. Turbo : 7500<br/>
+
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="76" y="-25" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V6 : 142387<br/>Capsule Glace : 25<br/>Moteur de synthèse perpétuel : 11765<br/>Drone n°2 : 2251<br/>Drone n°3 : 3752<br/>Drone n°4 : 6096<br/>Drone n°6 : 13682<br/>Drone n°7 : 19412<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="85" y="-77" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Capsule Feu : 22<br/>Antenne Ki-Wi : 4862<br/>Refroidissement liquide : 533<br/>Moteur de synthèse perpétuel : 15942<br/>Outil de perforation : 5626<br/>
+		</remarque>
+
+	</cas>
+	<cas type="Marchand" x="86" y="-193" >
+		<remarque>
+			Capsule Hydrogène Solide : 100<br/>Capsule Feu : 20<br/>Capsule Foudre : 29<br/>Lunettes de soleil : 134<br/>Antenne Ki-Wi : 4850<br/>Réact. Surf. Turbo : 8606<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="88" y="-42" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Capsule Feu : 20<br/>Réact. Surf. Turbo : 7500<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="126" y="-103" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 52<br/>Capsule Glace : 20<br/>Capsule Feu : 20<br/>Antenne Ki-Wi : 4565<br/>Ext. Pod Spécial : 12186<br/>Drone n°3 : 4000<br/>Drone n°4 : 6500<br/>Drone n°5 : 10000<br/>Drone n°9 : 38400<br/>Collecteur : 3043<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="128" y="-65" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 70<br/>Moteur V4 : 9180<br/>Capsule Feu : 18<br/>Capsule Trou noir : 73<br/>Antenne Ki-Wi : 6121<br/>Collecteur : 2860<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="133" y="-33" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 93<br/>Moteur V6 : 200210<br/>Capsule Foudre : 23<br/>Moteur de synthèse perpétuel : 15979<br/>Drone n°4 : 6476<br/>Drone n°5 : 9962<br/>Drone n°6 : 14544<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="141" y="-117" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 90<br/>Moteur V6 : 151790<br/>Missile Sup 2 : 998<br/>Capsule Feu : 20<br/>Antenne Ki-Wi : 4850<br/>Ext. Pod Spécial : 11331<br/>Drone n°4 : 6400<br/>Drone n°5 : 9846<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="148" y="-85" >
+		<remarque>
+
+			Moteur V4 : 7994<br/>Capsule Trou noir : 42<br/>Carte des missiles : 2000<br/>Drone n°2 : 2403<br/>Drone n°6 : 14618<br/>Outil de perforation : 7195<br/>Collecteur : 2505<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="166" y="-138" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 90<br/>Antenne Ki-Wi : 4833<br/>Ext. Pod Spécial : 12000<br/>Drone n°3 : 2823<br/>Drone n°4 : 4587<br/>Drone n°6 : 10302<br/>Convertisseur : 11496<br/>Réact. Surf. Turbo : 7465<br/>
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="177" y="-188" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 97<br/>Capsule Glace : 30<br/>Capsule Feu : 24<br/>Antenne Ki-Wi : 4850<br/>Drone n°4 : 6600<br/>Drone n°5 : 10154<br/>Drone n°6 : 14824<br/>Réact. Surf. Turbo : 7293<br/>
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="179" y="-187" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 91<br/>Missile Sup 2 : 1000<br/>Antenne Ki-Wi : 5808<br/>Ext. Pod Spécial : 11901<br/>Ext. Pod Ultime : 56858<br/>Collecteur : 2503<br/>Support réacteur : 849<br/>Réact. Surf. Turbo : 7499<br/>
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="179" y="-191" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 61<br/>Collecteur : 2195<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="180" y="-55" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V6 : 172763<br/>Capsule Feu : 25<br/>Capsule Trou noir : 50<br/>Refroidissement liquide : 573<br/>Ext. Pod Ultime : 84316<br/>Support réacteur : 1263<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="180" y="-191" >
+		<remarque>
+			Ext. Pod Spécial : 11901<br/>Ext. Pod Ultime : 56858<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="194" y="-20" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 95<br/>Capsule Trou noir : 73<br/>Moteur de synthèse perpétuel : 13303<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="203" y="-18" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V6 : 160000<br/>Antenne Ki-Wi : 4887<br/>Drone n°3 : 3 906 ?<br/>Drone n°4 : 3 906 ?<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="217" y="-3" >
+		<remarque>
+			Moteur V6 : 159130<br/>Antenne Ki-Wi : 5534<br/>Drone n°5 : 10860<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="221" y="-109" >
+		<remarque>
+			Capsule Hydrogène Solide : 88<br/>Ext. Pod Standard : 3686<br/>Ext. Pod Spécial : 10806<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="269" y="-24" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 55<br/>Capsule Glace : 17<br/>Capsule Trou noir : 50<br/>Antenne Ki-Wi : 6833<br/>Moteur de synthèse perpétuel : 16261<br/>Drone n°4 : 4415<br/>Drone n°6 : 9917<br/>Drone n°7 : 14060<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="272" y="-7" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 90<br/>Drone n°6 : 11411<br/>
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="4" y="7" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Missile Sup 1 : 135<br/>Capsule Feu : 17<br/>Capsule Foudre : 30<br/>
+
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="4" y="8" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="4" y="19" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 79<br/>Moteur V4 : 7655<br/>Capsule Feu : 20<br/>Drone n°2 : 2400<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="5" y="5" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V2 : 220<br/>Missile Sup 1 : 100<br/>Capsule Glace : 30<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="5" y="11" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V3 : 1000<br/>Missile Sup 1 : 125<br/>Capsule Glace : 30<br/>Capsule Feu : 21<br/>
+		</remarque>
+
+	</cas>
+	<cas type="MarchandSol" x="6" y="15" >
+		<remarque>
+			Capsule Hydrogène Solide : 69<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="7" y="54" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 90<br/>Moteur V5 : 20392<br/>Missile Sup 2 : 1437<br/>Collecteur : 2482<br/>Réact. Surf. Turbo : 7507<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="9" y="20" >
+		<remarque>
+			Capsule Hydrogène Solide : 123<br/>Missile Sup 1 : 67<br/>Capsule Foudre : 30<br/>Drone n°1 : 1198<br/>Drone n°2 : 2395<br/>Drone n°3 : 3991<br/>Drone n°4 : 6485<br/>Drone n°5 : 9977<br/>Drone n°6 : 14566<br/>Outil de perforation : 4953<br/>Collecteur : 1817<br/>Support réacteur : 1821<br/>Convertisseur : 11532<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="9" y="124" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Capsule Feu : 20<br/>Capsule Foudre : 30<br/>Refroidissement liquide : 570<br/>Moteur de synthèse perpétuel : 15759<br/>
+		</remarque>
+
+	</cas>
+	<cas type="Marchand" x="10" y="52" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Capsule Foudre : 29<br/>Drone n°2 : 3398<br/>Drone n°3 : 5663<br/>Collecteur : 2508<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="10" y="178" >
+		<remarque>
+			Capsule Hydrogène Solide : 115<br/>Drone n°7 : 16710<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="14" y="64" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Missile Sup 1 : 100<br/>Capsule Feu : 20<br/>Capsule Foudre : 30<br/>Carte des missiles : 2003<br/>Drone n°3 : 3169<br/>Drone n°4 : 5149<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="16" y="73" >
+		<remarque>
+			Capsule Hydrogène Solide : 80<br/>Moteur V5 : 21253<br/>Carte des missiles : 2001<br/>Drone n°3 : 4092<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="17" y="4" >
+		<remarque>
+			Capsule Hydrogène Solide : 78<br/>Moteur V3 : 977<br/>Missile Sup 1 : 97<br/>Capsule Feu : 20<br/>Capsule Trou noir : 54<br/>Drone n°1 : 658<br/>Drone n°2 : 1316<br/>Drone n°3 : 2193<br/>Drone n°4 : 3564<br/>Drone n°5 : 5482<br/>Drone n°6 : 8004<br/>Drone n°7 : 11347<br/>Drone n°8 : 15623<br/>Drone n°9 : 21050<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="19" y="17" >
+		<remarque>
+			Capsule Hydrogène Solide : 66<br/>Moteur V4 : 4603<br/>Missile Sup 1 : 100<br/>Capsule Feu : 20<br/>Capsule Foudre : 44<br/>Drone n°2 : 2399<br/>Drone n°3 : 3998<br/>Drone n°4 : 6497<br/>Drone n°5 : 9995<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="23" y="8" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V2 : 158<br/>Moteur V3 : 1003<br/>Missile Sup 1 : 64<br/>Missile Sup 2 : 1019<br/>Missile Sup 3 : 14282<br/>Capsule Glace : 30<br/>Capsule Foudre : 23<br/>Drone n°1 : 1200<br/>Drone n°2 : 2400<br/>Drone n°3 : 4000<br/>Drone n°5 : 9998<br/>Drone n°6 : 14597<br/>Collecteur : 2496<br/>Support réacteur : 1341<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="28" y="8" >
+		<remarque>
+			Capsule Glace : 30<br/>Capsule Foudre : 23<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="29" y="141" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 87<br/>Capsule Foudre : 39<br/>Ext. Pod Standard : 5107<br/>Drone n°5 : 7825<br/>Drone n°7 : 16201<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="30" y="131" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 108<br/>Ext. Pod Spécial : 12000<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="32" y="30" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Missile Sup 1 : 143<br/>Capsule Glace : 38<br/>Capsule Feu : 20<br/>Outil de perforation : 5500<br/>Collecteur : 2516<br/>Support réacteur : 1435<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="32" y="153" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V4 : 11005<br/>Moteur V6 : 238097<br/>Capsule Feu : 19<br/>Capsule Foudre : 30<br/>Antenne Ki-Wi : 4268<br/>Drone n°3 : 4513<br/>Drone n°4 : 7335<br/>Drone n°5 : 11284<br/>Outil de perforation : 4170<br/>Collecteur : 1508<br/>Réact. Surf. Turbo X2 : 30014<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="34" y="142" >
+		<remarque>
+			Capsule Hydrogène Solide : 97<br/>Moteur V6 : 160001<br/>Capsule Feu : 20<br/>Capsule Foudre : 28<br/>Antenne Ki-Wi : 4850<br/>Moteur de synthèse perpétuel : 15639<br/>Support réacteur : 1250<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="34" y="157" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Capsule Feu : 20<br/>Capsule Foudre : 30<br/>Capsule Trou noir : 50<br/>Collecteur : 2258<br/>
+		</remarque>
+
+	</cas>
+	<cas type="Marchand" x="36" y="160" >
+		<remarque>
+			
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="38" y="123" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Capsule Foudre : 24<br/>Drone n°5 : 9897<br/>Drone n°6 : 14450<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="44" y="55" >
+		<remarque>
+			Capsule Hydrogène Solide : 95<br/>Capsule Foudre : 27<br/>Carte des missiles : 1193<br/>Moteur de synthèse perpétuel : 17545<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="44" y="84" >
+		<remarque>
+			Capsule Hydrogène Solide : 89<br/>Missile Sup 1 : 147<br/>Missile Sup 2 : 1000<br/>Capsule Feu : 17<br/>Capsule Foudre : 32<br/>Capsule Trou noir : 49<br/>Collecteur : 2103<br/>Réact. Surf. Turbo : 6847<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="45" y="67" >
+		<remarque>
+			Capsule Hydrogène Solide : 87<br/>Moteur V4 : 8000<br/>Missile Sup 1 : 153<br/>Carte des missiles : 1330<br/>Moteur de synthèse perpétuel : 16030<br/>Ext. Pod Standard : 2777<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="45" y="104" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V6 : 159978<br/>Missile Sup 2 : 816<br/>Capsule Trou noir : 47<br/>Carte des missiles : 2046<br/>Antenne Ki-Wi : 5014<br/>Collecteur : 2501<br/>Réact. Surf. Turbo : 7500<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="47" y="33" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Capsule Feu : 20<br/>Capsule Foudre : 24<br/>Refroidissement liquide : 696<br/>Outil de perforation : 5303<br/>Collecteur : 2459<br/>Réact. Surf. Turbo : 9082<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="64" y="162" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 92<br/>Capsule Feu : 20<br/>Refroidissement liquide : 645<br/>Moteur de synthèse perpétuel : 13510<br/>Drone n°5 : 9683<br/>Drone n°6 : 14137<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="65" y="65" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 90<br/>Missile Sup 2 : 963<br/>Capsule Glace : 28<br/>Capsule Feu : 20<br/>Capsule Trou noir : 50<br/>Refroidissement liquide : 631<br/>Collecteur : 3186<br/>Réact. Surf. Turbo : 7434<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="66" y="137" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 90<br/>Capsule Feu : 15<br/>Carte des missiles : 2952<br/>Moteur de synthèse perpétuel : 22088<br/>Convertisseur : 10048<br/>Réact. Surf. Turbo : 7491<br/>
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="66" y="155" >
+		<remarque>
+			Capsule Hydrogène Solide : 93<br/>Moteur V4 : 8000<br/>Capsule Feu : 20<br/>Capsule Trou noir : 55<br/>Antenne Ki-Wi : 4848<br/>Outil de perforation : 2891<br/>Collecteur : 2730<br/>
+
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="68" y="155" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Missile Sup 2 : 997<br/>Capsule Feu : 20<br/>Capsule Foudre : 30<br/>Antenne Ki-Wi : 4879<br/>Moteur de synthèse perpétuel : 16137<br/>Ext. Pod Standard : 3552<br/>Collecteur : 2457<br/>Réact. Surf. Turbo : 7830<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="69" y="77" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Capsule Feu : 22<br/>Capsule Trou noir : 53<br/>Collecteur : 2183<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="71" y="82" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Capsule Feu : 20<br/>Refroidissement liquide : 569<br/>Moteur de synthèse perpétuel : 13921<br/>Ext. Pod Standard : 2923<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="79" y="77" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 130<br/>Capsule Foudre : 26<br/>Moteur de synthèse perpétuel : 16006<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="83" y="21" >
+		<remarque>
+			Capsule Hydrogène Solide : 119<br/>Carte des missiles : 1687<br/>Drone n°3 : 2295<br/>Drone n°4 : 3729<br/>Drone n°5 : 5736<br/>Drone n°6 : 8374<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="97" y="44" >
+		<remarque>
+			Capsule Hydrogène Solide : 89<br/>Capsule Trou noir : 50<br/>Réacteurs latéraux : 293<br/>Drone n°3 : 4293<br/>Drone n°5 : 10734<br/>Drone n°6 : 15671<br/>Drone n°7 : 22219<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="100" y="80" >
+		<remarque>
+			Capsule Hydrogène Solide : 66<br/>Capsule Feu : 19<br/>Capsule Foudre : 31<br/>Réact. Surf. Turbo : 8109<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="100" y="99" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Capsule Trou noir : 50<br/>Antenne Ki-Wi : 5350<br/>Moteur de synthèse perpétuel : 13346<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="102" y="74" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 106<br/>Capsule Foudre : 30<br/>Antenne Ki-Wi : 5130<br/>Refroidissement liquide : 570<br/>Moteur de synthèse perpétuel : 17898<br/>Drone n°4 : 6504<br/>Drone n°5 : 10007<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="102" y="117" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 51<br/>Antenne Ki-Wi : 3332<br/>Réact. Surf. Turbo : 7550<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="107" y="84" >
+		<remarque>
+			Capsule Hydrogène Solide : 127<br/>Moteur V5 : 17161<br/>Antenne Ki-Wi : 4850<br/>Moteur de synthèse perpétuel : 15761<br/>Drone n°4 : 6500<br/>Drone n°5 : 10000<br/>Drone n°6 : 14600<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="118" y="141" >
+		<remarque>
+			Capsule Hydrogène Solide : 97<br/>Drone n°3 : 5875<br/>Drone n°6 : 21443<br/>Réact. Surf. Turbo : 7500<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="127" y="174" >
+		<remarque>
+			Capsule Hydrogène Solide : 65<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="129" y="1" >
+		<remarque>
+			Capsule Hydrogène Solide : 92<br/>Moteur V5 : 17862<br/>Drone n°4 : 5254<br/>Drone n°5 : 8082<br/>Drone n°7 : 16730<br/>Réact. Surf. Turbo : 7530<br/>Réact. Surf. Turbo X2 : 30000<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="149" y="124" >
+		<remarque>
+			Capsule Hydrogène Solide : 64<br/>Drone n°6 : 14553<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="175" y="161" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 91<br/>Drone n°6 : 14608<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="176" y="84" >
+		<remarque>
+			Capsule Hydrogène Solide : 66<br/>Capsule Glace : 23<br/>Carte des missiles : 1998<br/>Antenne Ki-Wi : 2445<br/>Moteur de synthèse perpétuel : 15219<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="177" y="57" >
+		<remarque>
+			Moteur V5 : 27840<br/>Capsule Glace : 29<br/>Capsule Feu : 11<br/>Antenne Ki-Wi : 6441<br/>Refroidissement liquide : 338<br/>
+		</remarque>
+
+	</cas>
+	<cas type="Marchand" x="178" y="9" >
+		<remarque>
+			
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="226" y="25" >
+		<remarque>
+			Capsule Glace : 30<br/>Capsule Feu : 28<br/>Capsule Foudre : 30<br/>Capsule Trou noir : 35<br/>Enveloppe de secours : 709<br/>Antenne Ki-Wi : 7114<br/>Moteur de synthèse perpétuel : 11745<br/>
+
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="250" y="112" >
+		<remarque>
+			Capsule Hydrogène Solide : 89<br/>Capsule Foudre : 30<br/>Réact. Surf. Turbo : 7559<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="296" y="84" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V6 : 160089<br/>Antenne Ki-Wi : 5174<br/>Drone n°4 : 6500<br/>Drone n°5 : 10000<br/>Drone n°6 : 14600<br/>Réact. Surf. Turbo : 7564<br/>
+		</remarque>
+	</cas>
+
+	<cas type="Marchand" x="344" y="55" >
+		<remarque>
+			Capsule Hydrogène Solide : 120<br/>Moteur V6 : 160000<br/>Capsule Trou noir : 45<br/>Réact. Surf. Turbo X2 : 16939<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="387" y="113" >
+		<remarque>
+
+			Capsule Hydrogène Solide : 90<br/>Capsule Glace : 26<br/>Capsule Feu : 30<br/>
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="410" y="100" >
+		<remarque>
+			Capsule Hydrogène Solide : 74<br/>
+		</remarque>
+
+	</cas>
+	<cas type="MarchandSol" x="415" y="84" >
+		<remarque>
+			Capsule Hydrogène Solide : 90<br/>Moteur V5 : 20801<br/>Drone n°4 : 7249<br/>Réact. Surf. Turbo X3 : 241759<br/>
+		</remarque>
+	</cas>
+	<cas type="MarchandSol" x="417" y="84" >
+
+		<remarque>
+			Capsule Hydrogène Solide : 89<br/>Antenne Ki-Wi : 5353<br/>Drone n°5 : 10000<br/>
+		</remarque>
+	</cas>
+	<cas type="Marchand" x="419" y="87" >
+		<remarque>
+			Capsule Hydrogène Solide : 122<br/>Missile Sup 2 : 995<br/>Capsule Glace : 30<br/>Moteur de synthèse perpétuel : 17129<br/>Drone n°4 : 3920<br/>Drone n°5 : 6030<br/>Drone n°6 : 8803<br/>Réact. Surf. Turbo : 9738<br/>
+
+		</remarque>
+	</cas>
+	
+</alphabounceinfo>

@@ -1,0 +1,208 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    font-family: "arial","sans-serif";
+    font-size: 10pt;
+    color: #FFF;
+    background-color: #2F385D;
+}
+
+a {
+    color: #F5A245;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+a.button, input.button {
+    display: block;
+    color: #FFF;
+    width: 118px;
+    height: 19px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    text-align: center;
+    text-transform: uppercase;
+    font-variant: small-caps;
+    font-size: 7.5pt;
+    font-weight: bold;
+    border: 0px none;
+    cursor: pointer;
+    background-image: url("http://alphabounce.com/img/design/button.gif");
+    background-repeat: no-repeat;
+}
+
+a.button {
+    height: 16px;
+    padding-top: 3px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.card {
+    height: 18px;
+    background-color: #475682;
+    width: 448px;
+    margin: 7px 0px;
+    padding: 2px 8px;
+    box-sizing: border-box;
+	position: relative;
+	font-size: 11px;
+}
+
+.card li {
+    color: rgb(164, 179, 208);
+    border-width: 0px 1px;
+    border-style: solid;
+    border-color: #A4B3D0;
+    border-image: none;
+    padding: 0px 16px;
+    display: inline;
+    margin-left: -1px;
+}
+.card .name {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    height: 18px;
+}
+.card .name img {
+    margin-top: -7px;
+    vertical-align: -10px;
+}
+.card .name a {
+    cursor: pointer;
+    text-decoration: none;
+    background-repeat: no-repeat;
+    background-position: right center;
+    color: #FFF;
+    box-shadow: 0px 0px 1px #000;
+    white-space: nowrap;
+    border-radius: 4px;
+    border-top: 1px solid #6C7188;
+    background-color: #4E5162;
+    padding: 0px 4px 0px 4px;
+}
+
+
+/*  */
+
+.toggle_container {
+	position: absolute;
+	width: 448px;
+}
+
+
+/* welcome */
+
+#welcome {
+    background-image: url("../img/back.png");
+    min-height: 338px;
+    background-attachment: fixed;
+    font-size: 10px;
+    padding: 0px 10px;
+}
+
+#welcome h2 {
+    width: 208px;
+    height: 32px;
+    background-image: url("../img/title.png");
+    background-position: left 1px;
+    margin: 1px 0px 0px;
+}
+#welcome h2 span {
+    display: none;
+}
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+  color:#000;
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+
+/*  */
+
+.mission {
+    background-color: #475682;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    min-height: 78px;
+}
+
+.mission .date {
+    float: right;
+    margin-top: 3px;
+    position: relative;
+    margin-right: 0px;
+    font-size: 7.5pt;
+    text-align: right;
+    letter-spacing: -0.3pt;
+    color: #A4B3D0;
+}
+
+.mission h3 {
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: 9pt;
+    color: #FFD500;
+    background-image: url("http://alphabounce.com/img/icons/small_mission.gif");
+    background-position: left 1px;
+    background-repeat: no-repeat;
+    padding-left: 19px;
+    padding-top: 2px;
+}
+
+.mission .content {
+    font-size: 8pt;
+    line-height: 9pt;
+    color: #C1CEF4;
+    text-align: justify;
+}
+
+.mission .content::first-letter, .mission p::first-letter {
+    color: #FFF;
+}
+
+.mission .pic {
+    float: left;
+    position: relative;
+    border: 1px solid #AABCF0;
+    margin-right: 10px;
+    width: 50px;
+    height: 50px;
+    margin-bottom: 5px;
+    background-color: #262A5C;
+}
+
+.news em, span.coord, .mission .content em {
+    color: #BBFC63;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 1pt;
+    cursor: help;
+}

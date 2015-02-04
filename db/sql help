@@ -1,0 +1,5 @@
+INSERT OR IGNORE INTO cells (X,Y,mineral) VALUES (-1,-163,1);
+UPDATE cells SET mineral=1 WHERE X=-1 AND Y=-163; 
+
+PK Autoincrement
+

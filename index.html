@@ -1,22 +1,59 @@
-<script>
-  top["bookmarkletgaia"] = ''
-    +'<!DOCTYPE html>'
-    +'<html>'
-      +'<head>'
-        +'<title>My Bookmarklet</title>'
-        +'<link rel="icon" href="http://a4edfd900b.url-de-test.ws/gaia/img/favicon.ico" />'
-      +'</head>'
-      +'<body>'
-        +'<script>'
-          +'window.onload=function(){'
-            +'window.setTimeout(function(){'
-              +'history.back();'
-            +'},250);'
-          +'};'
-        +'</scr'+'ipt>'
-      +'</body>'
-  ;
-</script>
+<!DOCTYPE html>
+<html>
+    <head>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <title>AlphaBounce</title>
+    <meta name="author" content="lipki">
+	<meta http-equiv="content-language" content="fr">
+    <meta name="description" content="GAIA Report est comme son nom l'indique un outil qui permet de rapporter les informations découvertes sur chaque case de l'univers d'Alphabounce et ce directement sur le site du jeu.">
+	<link href="./img/favicon.ico" rel="SHORTCUT ICON">
+	<link href="./css/index.css" type="text/css" rel="stylesheet">
+    <script>
+      top["bookmarkletGAIAreport"] = ''
+        +'<!DOCTYPE html>'
+        +'<html>'
+          +'<head>'
+            +'<title>My Bookmarklet</title>'
+            +'<link rel="icon" href="http://lipki.github.io/GAIA-Report/img/favicon.ico" />'
+          +'</head>'
+          +'<body>'
+            +'<script>'
+              +'window.onload=function(){'
+                +'window.setTimeout(function(){'
+                  +'history.back();'
+                +'},250);'
+              +'};'
+            +'</scr'+'ipt>'
+          +'</body>'
+      ;
+    </script>
+    </head>
+    <body>
+        <div id="border">
+            <div id="content">
+                <p id="intro">
+                    Si vous utilisez un navigateur qui le supporte,<br/>
+                    vous devriez être capable de glisser<br/>
+                    <em>le symbole de l'organisation GAIA</em> ci-dessous,<br/>
+                    <strong>la ROSE DES VENTS</strong>,<br/>
+                    à vos favoris (Dans votre barre de favoris).
+                </p>
+    
+                <a id="bookmarklet" ondragend="this.click();" href='javascript:if(top["bookmarkletGAIAreport"]){top["bookmarkletGAIAreport"]}else{(function(){if(window.location.host.indexOf("alphabounce.com")!=-1&&document.getElementById("gaia")==null){var e=document,t,n,r,i,s,o,u;s=e.createElement("a");s.setAttribute("href","http://a4edfd900b.url-de-test.ws/gaia/gaia.html");s.setAttribute("id","gaia");s.style.position="absolute";s.style.right="10px";s.style.top="96px";s.style.zIndex="10";s.style.display="block";s.style.backgroundImage="url(http://a4edfd900b.url-de-test.ws/gaia/img/tab_on.gif)";s.style.width="21px";s.style.height="29px";t=e.getElementById("iframe");o=e.getElementById("center");o.appendChild(s);o.insertBefore(s,t);o.style.position="relative";function a(r){var i,o,f,l,c,h,p,v;t=e.getElementById("iframe");n=t.contentDocument||t.contentWindow.document;if(t.removeEventListener)t.removeEventListener("load",a,false);else if(t.detachEvent)t.detachEvent("onload",a);i=window.open("","iframe").location.href;if(i.indexOf("/user/")!=-1&&i.indexOf("/ranking/")==-1&&i.indexOf("/missions/")==-1){f=n.getElementById("section");u=f.getElementsByClassName("card")[0];s=u.getElementsByTagName("a")[0];h=s.textContent;p=u.getElementsByTagName("span")[0];v=p.textContent;s=e.getElementById("gaia");o=n.createElement("iframe");o.setAttribute("id","gaiaIframe");o.setAttribute("frameborder","");o.setAttribute("allowtransparency","true");o.setAttribute("src",s.href+"?p="+h+"&c="+v);o.style.border="0";o.style.width="468px";o.style.height="385px";f=n.getElementById("section");f.style.overflow="hidden";l=f.getElementsByClassName("user")[0];u=l.getElementsByClassName("card")[0];f.style.width="468px";l.innerHTML=null;l.appendChild(o);c=n.getElementsByClassName("active")[0];if(c!=undefined)c.className=""}}function f(t){if(t!=null)t.preventDefault();var n,r,i,s,o;n=e.getElementById("iframe");r=n.contentDocument||n.contentWindow.document;i=r.getElementById("menu");s=i.getElementsByTagName("li")[1];o=s.getElementsByTagName("a")[0];n.src=o.href;if(n.addEventListener)n.addEventListener("load",a,false);else if(n.attachEvent)n.attachEvent("onload",a)}f(null);if(s.addEventListener)s.addEventListener("click",f,false);else if(s.attachEvent)s.attachEvent("onclick",f)}})()}'><span>GAIA</span></a>
+                
+                <p id="outro">
+                    c'est <strong>ELLE</strong> qui vous guidera dorénavant, sur la route de votre destiné.
+                </p>
+                
+            </div>
+        </div>
+    </body>
 
-<a ondragend="this.click();" href='javascript:if(top["bookmarkletgaia"]){top["bookmarkletgaia"]}else{(function(){if(window.location.host.indexOf("alphabounce.com")!=-1&&document.getElementById("gaia")==null){var e=document,t,n,r,i,s,o,u;s=e.createElement("a");s.setAttribute("href","http://a4edfd900b.url-de-test.ws/gaia/gaia.html");s.setAttribute("id","gaia");s.style.position="absolute";s.style.right="10px";s.style.top="96px";s.style.zIndex="10";s.style.display="block";s.style.backgroundImage="url(http://a4edfd900b.url-de-test.ws/gaia/img/tab_on.gif)";s.style.width="21px";s.style.height="29px";t=e.getElementById("iframe");o=e.getElementById("center");o.appendChild(s);o.insertBefore(s,t);o.style.position="relative";function a(r){var i,o,f,l,c,h,p,v;t=e.getElementById("iframe");n=t.contentDocument||t.contentWindow.document;if(t.removeEventListener)t.removeEventListener("load",a,false);else if(t.detachEvent)t.detachEvent("onload",a);i=window.open("","iframe").location.href;if(i.indexOf("/user/")!=-1&&i.indexOf("/ranking/")==-1&&i.indexOf("/missions/")==-1){f=n.getElementById("section");u=f.getElementsByClassName("card")[0];s=u.getElementsByTagName("a")[0];h=s.textContent;p=u.getElementsByTagName("span")[0];v=p.textContent;s=e.getElementById("gaia");o=n.createElement("iframe");o.setAttribute("id","gaiaIframe");o.setAttribute("frameborder","");o.setAttribute("allowtransparency","true");o.setAttribute("src",s.href+"?p="+h+"&c="+v);o.style.border="0";o.style.width="468px";o.style.height="385px";f=n.getElementById("section");f.style.overflow="hidden";l=f.getElementsByClassName("user")[0];u=l.getElementsByClassName("card")[0];f.style.width="468px";l.innerHTML=null;l.appendChild(o);c=n.getElementsByClassName("active")[0];if(c!=undefined)c.className=""}}function f(t){if(t!=null)t.preventDefault();var n,r,i,s,o;n=e.getElementById("iframe");r=n.contentDocument||n.contentWindow.document;i=r.getElementById("menu");s=i.getElementsByTagName("li")[1];o=s.getElementsByTagName("a")[0];n.src=o.href;if(n.addEventListener)n.addEventListener("load",a,false);else if(n.attachEvent)n.attachEvent("onload",a)}f(null);if(s.addEventListener)s.addEventListener("click",f,false);else if(s.attachEvent)s.attachEvent("onclick",f)}})()}'>GAIA</a>
+</html>
+
+
+
+
+
+
 

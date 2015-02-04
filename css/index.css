@@ -1,0 +1,67 @@
+* {
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+
+body {
+    color: #A4B3D0;
+    background-image: url("http://www.alphabounce.com/img/design/core_planet.jpg");
+    background-repeat: no-repeat;
+    background-color: #000;
+    font-family: "arial","sans-serif";
+    font-size: 13px;
+}
+
+#border {
+    background: rgba(48, 58, 95, 0.83);
+    border: 1px solid #68759B;
+    width: 472px;
+    height: 472px;
+    margin: 105px -236px;
+    top: 0px;
+    left: 50%;
+    position: absolute;
+    box-sizing: border-box;
+    padding: 7px;
+}
+
+#content {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background: url("../img/back.png") no-repeat scroll 50% 50% #303A5F;
+    border: 1px solid #68759B;
+    box-sizing: border-box;
+}
+
+#content p {
+    text-shadow: 0px 0px 3px #000;
+    padding: 20px;
+    position: absolute;
+    margin-top: 9px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#content p#outro {
+    position: absolute;
+    bottom: 0px;
+    margin-bottom: 153px;
+}
+
+#bookmarklet {
+    background-image: url("../img/gaia-logo.png");
+    width: 40px;
+    height: 40px;
+    display: block;
+    position: absolute;
+    top: 51%;
+    left: 50%;
+    background-size: 40px 40px;
+    margin: -20px;
+}
+
+#bookmarklet span {
+    display: none;
+}

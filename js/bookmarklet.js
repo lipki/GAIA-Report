@@ -1,19 +1,19 @@
-if(top['bookmarkletgaia']) {
-   top['bookmarkletgaia'];
+if(top['bookmarkletGAIAreport']) {
+   top['bookmarkletGAIAreport'];
 } else {
   (function(){
     if(window.location.host.indexOf('alphabounce.com') != -1 && document.getElementById('gaia') == null) {
       var d = document, iframe, innerDoc, menu, li, a, center, card;
 
       a = d.createElement('a');
-      a.setAttribute('href', 'http://a4edfd900b.url-de-test.ws/gaia/gaia.html');
+      a.setAttribute('href', 'http://lipki.github.io/GAIA-Report/gaia.html');
       a.setAttribute('id', 'gaia');
       a.style.position = 'absolute';
       a.style.right = '10px';
       a.style.top = '96px';
       a.style.zIndex = '10';
       a.style.display = 'block';
-      a.style.backgroundImage = 'url(http://a4edfd900b.url-de-test.ws/gaia/img/tab_on.gif)';
+      a.style.backgroundImage = 'url(http://lipki.github.io/GAIA-Report/img/tab_on.gif)';
       a.style.width = '21px';
       a.style.height = '29px';
 

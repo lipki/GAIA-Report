@@ -1,12 +1,14 @@
 
+//debug 
+var debug = window.location.toString().indexOf('localhost') != -1 ? true : false;
+//debug = false;
+if(debug) console.log('debug');
+
 $( document ).ready(function() {
     
     // post gaia
-    
-    var query = window.location.search.substring(1);
-    var vars = query.split("&");
-    var get = {};
-    for (var i=0;i<vars.length;i++) {
+    var vars = window.location.search.substring(1).split("&");
+    for (var i=0, get={} ;i<vars.length;i++) {
         var va = vars[i].split('=');
         get[va[0]] = va[1];
     }
@@ -56,14 +58,13 @@ $( document ).ready(function() {
         
     });
     
-    $(".toggle_container").hide();
-    
 });
 
 var CRUD = {
     
     isUserExist: function( vars, callback ) {
         vars.action = 'user_exist';
+        var php = debug ? 'crud.php' : 'http://a4edfd900b.url-de-test.ws/gaia/crud.php';
         $.post( 'crud.php', vars, callback, "json" );
     }
     

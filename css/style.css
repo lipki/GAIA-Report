@@ -96,6 +96,7 @@ a.button {
 .toggle_container {
 	position: absolute;
 	width: 448px;
+	display: none;
 }
 
 

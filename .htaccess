@@ -1,1 +1,7 @@
 Header add Cache-Control "max-age=1"
+
+<FilesMatch "\.(php)$">
+  <IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "http://lipki.github.io"
+  </IfModule>
+</FilesMatch>

@@ -7,18 +7,25 @@
         <link href="css/style.css" type="text/css" rel="stylesheet">
     </head>
     <body id="inner">
-        
+    
         <div class="card">
+
+            <div class="name" >
+                <img alt="1 (GAIA)" src="img/rank12.png" title="">
+                <a href="#" class="tid_user">lipki</a>
+            </div>
+            <div class="coord"><em>Pos :</em> <span id="coord">[0][0]</span></div>
+            <div class="score"><em>Signalement :</em> <span id="score">0</span></div>
+            <div class="date"><em>Investigation depuis :</em> <span id="date">0 jours</span></div>
+        </div>
+        
+        <menu class="card">
             <ul>
                 <li><a class="butmenu" id="butReport" href="#report">Signaler</a></li><!--
              --><li><a class="butmenu" id="butMap" href="#map">Carte</a></li><!--
              --><li><a class="butmenu" id="butHelp" href="#help">A propos</a></li>
             </ul>
-            <div class="name">
-                <img id="rank" alt="1 (GAIA)" src="img/rank1.png" title="">
-                <a id="login" href="#map"></a>
-            </div>
-        </div>
+        </menu>
         
         <section id="welcome" class="toggle_container">
             <h2><span>G.A.I.A.</span></h2>
@@ -35,11 +42,13 @@
         </section>
         
         <section id="report" class="toggle_container">
-            hop
+            <div id="space">
+            </div>
         </section>
         
         <section id="map" class="toggle_container">
-            hap
+            <ul id="position">
+            </ul>
         </section>
         
         <section id="help" class="toggle_container">

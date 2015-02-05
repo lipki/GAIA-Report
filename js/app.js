@@ -1,7 +1,7 @@
 
 //debug 
 var debug = window.location.toString().indexOf('localhost') != -1 ? true : false;
-//debug = false;
+debug = false;
 if(debug) console.log('debug');
 
 $( document ).ready(function() {
@@ -62,10 +62,12 @@ $( document ).ready(function() {
 
 var CRUD = {
     
-    isUserExist: function( vars, callback ) {
+    isUserExist: function( vars, success, success2, fail, always ) {
         vars.action = 'user_exist';
-        var php = debug ? 'crud.php' : 'http://a4edfd900b.url-de-test.ws/gaia/crud.php';
-        $.post( 'crud.php', vars, callback, "json" );
+        $.getJSON( debug ? 'crud.php' : 'http://a4edfd900b.url-de-test.ws/gaia/crud.php', vars, success )
+        .done(success2)
+        .fail(fail)
+        .always(always);
     }
     
 };

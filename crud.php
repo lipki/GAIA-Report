@@ -1,5 +1,6 @@
 <?php
     header("Cache-Control: max-age=1");
+    header("Access-Control-Allow-Origin: *");
     
     $debug = $_REQUEST['debug'];
     if( $debug ) {

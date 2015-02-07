@@ -11,7 +11,13 @@ body {
     font-family: "arial","sans-serif";
     font-size: 10pt;
     color: #FFF;
-    background-color: #2F385D;
+}
+
+#gaia {
+    background: none repeat scroll 0% 0% #2F385D;
+    width: 473px;
+    height: 385px;
+    position: relative;
 }
 
 a {
@@ -48,9 +54,9 @@ a.button {
 .card {
     height: 18px;
     background-color: #475682;
-    width: 460px;
+    width: 473px;
     margin-bottom: 2px;
-	margin-top: 5px;
+    margin-top: 5px;
 }
 
 .card .name {
@@ -74,16 +80,14 @@ a.button {
 .card .name .tid_user {
     border-top: 1px solid #6C7188;
     background-color: #4E5162;
-    padding-left: 4px;
+    padding: 0 4px;
     color: #FFF;
     box-shadow: 0px 0px 1px #000;
     white-space: nowrap;
     border-radius: 4px;
-    background-image: url("/img/icons/contact.png");
     background-repeat: no-repeat;
     background-position: right center;
     cursor: pointer;
-    padding-right: 13px !important;
     text-decoration: none;
 }
 
@@ -144,10 +148,9 @@ a.button {
 /* section */
 
 .toggle_container {
-	position: absolute;
-	width: 428px;
-	display: none;
-	padding: 10px;
+    position: absolute;
+    width: 100%;
+    display: none;
 }
 
 
@@ -193,91 +196,201 @@ blockquote p {
 
 /* report */
 
-#space {
+#report .zone {
     width: 100%;
-    height: 80px;
-    background-image: radial-gradient(circle, rgba(0, 255, 0, 0.28) 20%, rgba(0, 255, 0, 0) 100%);
-    background-repeat: no-repeat;
-    background-size: 100% 76px;
-    background-position: 50% 50%;
-}
-
-#space::after, #space::before {
-    display: block;
-    width: 100%;
-    background: radial-gradient(circle, rgb(0, 255, 0) 85%, rgba(0, 255, 0, 0) 100%) repeat scroll 0% 0% transparent;
-    content: " ";
-    height: 1px;
-    margin: -1px 0;
-}
-
-#space::after {
-    margin: 79px 0;
-}
-
-/*  */
-
-.mission {
-    background-color: #475682;
-    margin-right: 10px;
-    margin-left: 10px;
-    margin-bottom: 10px;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-bottom: 5px;
-    min-height: 78px;
-}
-
-.mission .date {
-    float: right;
-    margin-top: 3px;
+    height: 113px;
     position: relative;
-    margin-right: 0px;
-    font-size: 7.5pt;
-    text-align: right;
-    letter-spacing: -0.3pt;
-    color: #A4B3D0;
+    box-sizing: border-box;
+    padding-left: 120px;
+    padding-top: 5px;
+    border-style: solid;
+    border-color: #68759B;
+    border-image: none;
+    border-width: 0 0 1px;
+    background-image: linear-gradient(#2A3250, #232A43 87%, #090A10);
+    margin: 0;
+	display: none;
+}
+#report #space .picture {
+	background-image: url(img/mineral.png);
+}
+#report #ground .picture {
+	background-image: url(img/planets/Douriv.png);
+}
+#report #merchant .picture {
+	background-image: url(img/marchand.png);
 }
 
-.mission h3 {
-    margin-bottom: 10px;
+#report .zone .picture {
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-position: 50% 50%;
+    border: 1px solid #97A4D7;
+    border-radius: 5px;
+    box-shadow: 0px 0px 4px #1F232F inset, 0px 0px 21px #BAC6E9 inset;
+    margin: 5px;
+}
+
+#report form {
+    z-index: 25;
+    position: relative;
+}
+
+#report form p {
+    float: left;
+    width: 117px;
+    height: 50%;
+}
+
+#report form p.submit {
+    width: 200px;
+}
+
+#report form label {
     font-weight: bold;
     font-variant: small-caps;
     font-size: 9pt;
-    color: #FFD500;
-    background-image: url("http://alphabounce.com/img/icons/small_mission.gif");
+    color: rgb(255, 213, 0);
     background-position: left 1px;
     background-repeat: no-repeat;
     padding-left: 19px;
     padding-top: 2px;
 }
-
-.mission .content {
-    font-size: 8pt;
-    line-height: 9pt;
-    color: #C1CEF4;
-    text-align: justify;
+#report form label[for="mineral"] {
+    background-image: url("../img/mineral2.png");
+}
+#report form label[for="missile"] {
+    background-image: url("../img/missile.png");
+}
+#report form label[for="antiradar"] {
+    background-image: url("../img/antiradar.png");
+}
+#report form label[for="bonusp"] {
+    background-image: url("../img/provision.png");
 }
 
-.mission .content::first-letter, .mission p::first-letter {
+#report form input {
+    width: 100%;
+    height: 25px;
+    border: 1px solid #97A4D7;
+    border-radius: 3px;
+    background-color: #445279;
+    box-shadow: 0px 0px 2px #1F232F inset, 0px 0px 8px #BAC6E9 inset;
     color: #FFF;
-}
-
-.mission .pic {
-    float: left;
-    position: relative;
-    border: 1px solid #AABCF0;
-    margin-right: 10px;
-    width: 50px;
-    height: 50px;
-    margin-bottom: 5px;
-    background-color: #262A5C;
-}
-
-.news em, span.coord, .mission .content em {
-    color: #BBFC63;
-    font-style: normal;
+    text-align: center;
+    text-transform: uppercase;
+    font-variant: small-caps;
+    font-size: 11px;
     font-weight: bold;
-    letter-spacing: 1pt;
-    cursor: help;
+    line-height: 18px;
+}
+
+#report form input:focus {
+    border-color: #8BEFFF;
+    box-shadow: 0px 0px 2px #1F232F inset, 0px 0px 16px #36E4DE inset;
+}
+
+#report form .inputNumber {
+    width: 66%;
+    position: relative;
+    display: block;
+	margin: 2px 0;
+	float: left;
+	font-size: 16px;
+}
+#report form .inputNumber input {
+	font-size: 16px;
+}
+
+#report form .inputNumber::before, #report form .inputNumber::after {
+    content: "+";
+    display: block;
+    width: 13px;
+    height: 11px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-weight: bold;
+    line-height: 8px;
+    text-align: center;
+    border: 1px solid #97A4D7;
+    background: #44527A;
+    border-radius: 0 3px 0 0;
+	pointer-events: none;
+	cursor: pointer;
+    box-shadow: 0px 0px 1px #1F232F inset, 0px 0px 4px #BAC6E9 inset;
+}
+
+#report form .inputNumber::after {
+    content: "-";
+    top: auto;
+    bottom: 0;
+    border-radius: 0 0 3px 0;
+}
+
+[type="checkbox"]:not(:checked),
+[type="checkbox"]:checked {
+  position: absolute;
+  left: -9999px;
+}
+
+[type="checkbox"]:not(:checked) + label,
+[type="checkbox"]:checked + label {
+  position: relative; /* permet de positionner les pseudo-éléments */
+  cursor: pointer;    /* affiche un curseur adapté */
+}
+
+[type="checkbox"]:not(:checked) + label::before,
+[type="checkbox"]:checked + label::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 18px;
+    width: 25px;
+    height: 25px;
+    border: 1px solid #97A4D7;
+    background: #44527A;
+    border-radius: 3px;
+    box-shadow: 0px 0px 1px #1F232F inset, 0px 0px 4px #BAC6E9 inset;
+    box-sizing: border-box;
+}
+
+[type="checkbox"]:not(:checked) + label::after,
+[type="checkbox"]:checked + label::after {
+    content: "✔";
+    position: absolute;
+    top: 7px;
+    left: 0;
+    font-size: 37px;
+    color: #FFF;
+    transition: all 0.2s ease 0s;
+}
+
+[type="checkbox"]:not(:checked) + label:after {
+  opacity: 0; /* coche invisible */
+  transform: scale(0); /* mise à l'échelle à 0 */
+}
+
+[type="checkbox"]:checked + label:after {
+  opacity: 1; /* coche opaque */
+  transform: scale(1); /* mise à l'échelle 1:1 */
+}
+
+.min, .max, .uncheck, .check {
+    font-size: 10px;
+    font-variant: small-caps;
+    font-weight: bold;
+    float: left;
+    width: 33%;
+    padding-left: 7px;
+    box-sizing: border-box;
+    margin-top: 2px;
+	height: 12px;
+}
+.max, .check {
+    margin: 0 0 2px 0;
 }

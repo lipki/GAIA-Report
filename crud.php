@@ -78,4 +78,21 @@ if( isset($_REQUEST['login']) && $action == 'user_move' ) {
     echo json_encode ( $rest );
 }
 
+if( isset($_REQUEST['X']) && isset($_REQUEST['Y']) && $action == 'get_info' ) {
+    
+    $X = stripslashes($_REQUEST['X']);                                          d($X);
+    $Y = stripslashes($_REQUEST['Y']);                                          d($Y);
+    
+    $query = "SELECT * FROM cells ".
+             "WHERE X = '".$X."' AND Y = '".$Y."';";                            d($query);
+    $res = $db->query($query);                                                  d($res, true);
+    $rest = [];
+    while($row=$res->fetchArray())
+        $rest[] = $row;                                                         d($rest, true);
+    
+    echo json_encode ( $rest );
+}
+
+
+
 ?>

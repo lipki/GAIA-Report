@@ -50,6 +50,7 @@ if(top['bookmarkletGAIAreport']) {
           newIframe.setAttribute('id', 'gaiaIframe');
           newIframe.setAttribute('frameborder', '');
           newIframe.setAttribute('allowtransparency', 'true');
+          newIframe.setAttribute('scrolling', 'no');
           newIframe.setAttribute('src', a.href+'?p='+pseudo+'&c='+coord);
           newIframe.style.border = '0';
           newIframe.style.width = '468px';

@@ -26,6 +26,8 @@ $( document ).ready(function() {
         suspend: 0
     };
     
+    console.log(user);
+    
     CRUD.isUserExist( {login:user.login, X:user.X, Y:user.Y}, initGaia );
     
     // gaia
@@ -81,19 +83,13 @@ $( document ).ready(function() {
     }
     
     function report () {
-        
-        alert( 'report' );
-        alert( this );
-        
+        console.log( 'report' );
+        CRUD.getInfo( {X:user.X, Y:user.Y}, initReport );
     }
     
     function map () {
-        
-        alert( 'map' );
-        alert( this );
-    
+        console.log( 'map' );
         CRUD.getMove( {login:user.login}, initUserMove );
-        
     }
     
     function initUserMove (data) {
@@ -113,7 +109,29 @@ $( document ).ready(function() {
         
         console.log(pos);
             
+    }
+    
+    function initReport (data) {
         
+        
+        // picture
+        //$("#space").show();
+        
+        console.log('Retour de get Info');
+        console.log(data);
+        
+        /*for (var i=0, pos=[] ; i < data.length ; i++) {
+            pos[i] = {};
+            pos[i].X = data[i].X;
+            pos[i].Y = data[i].Y;
+            pos[i].time = data[i].time;
+            
+            $("#position").append('<li>'+pos[i].time+'</li>')
+            
+        }
+        
+        console.log(pos);*/
+            
     }
     
 });
@@ -130,6 +148,14 @@ var CRUD = {
     
     getMove: function( vars, success, success2, fail, always ) {
         vars.action = 'user_move';
+        $.getJSON( debug ? 'crud.php' : 'http://a4edfd900b.url-de-test.ws/gaia/crud.php', vars, success )
+        .done(success2)
+        .fail(fail)
+        .always(always);
+    },
+    
+    getInfo: function( vars, success, success2, fail, always ) {
+        vars.action = 'get_info';
         $.getJSON( debug ? 'crud.php' : 'http://a4edfd900b.url-de-test.ws/gaia/crud.php', vars, success )
         .done(success2)
         .fail(fail)

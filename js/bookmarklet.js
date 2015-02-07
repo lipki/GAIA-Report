@@ -53,14 +53,15 @@ if(top['bookmarkletGAIAreport']) {
           newIframe.setAttribute('scrolling', 'no');
           newIframe.setAttribute('src', a.href+'?p='+pseudo+'&c='+coord);
           newIframe.style.border = '0';
-          newIframe.style.width = '468px';
-          newIframe.style.height = '385px';
+          newIframe.style.width = '473px';
+          newIframe.style.height = '387px';
 
-          section = innerDoc.getElementById('section');
           section.style.overflow = 'hidden';
+          section.style.margin = '0';
+          section.style.width = '473px';
+          section.style.height = '387px';
           user = section.getElementsByClassName('user')[0];
           card = user.getElementsByClassName('card')[0];
-          section.style.width = '468px';
 
           user.innerHTML = null;
           user.appendChild(newIframe);

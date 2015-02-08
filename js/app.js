@@ -21,14 +21,14 @@ $( document ).ready(function() {
         Y: Number(coord[1]),
         rank: 0,
         group: '',
-        create_date: 0,
-        last_login_date: 0,
+        create_date: new Date(),
+        last_login_date: new Date(),
         suspend: 0
     };
     
     console.log(user);
     
-    CRUD.isUserExist( {login:user.login, X:user.X, Y:user.Y}, initGaia );
+    CRUD.call( {login:user.login}, 'isUserExist', initGaia );
     
     // gaia
     
@@ -48,26 +48,15 @@ $( document ).ready(function() {
         
     });
     
-    function initGaia (data){
+    function initGaia (reply){
         
         console.log('Retour de user_exist');
-        console.log(data);
+        console.log(reply);
         
-        user.group = data.group;
-        user.create_date = new Date(data.create_date);
-        user.last_login_date = new Date(data.last_login_date);
-        user.suspend = !!Number(data.suspend);
-        user.rank = Number(data.rank);
-        
-        console.log(user);
-        
-        if( !data.reply ) {
-            console.log('new');
-            $("#welcome").show('slow');
-        } else {
-            console.log('old');
-            $( "#butReport" ).click();
-        }
+        //for (var a in user) user[a] = reply.data[0][a];
+        user.rank = reply.data[0].rank;
+        user.create_date = new Date(reply.data[0].create_date.split(' ').join('T'));
+        user.last_login_date = new Date(reply.data[0].last_login_date.split(' ').join('T'));
         
         var rank = $("#rank").attr('src', "img/rank"+user.rank+".png");
         rank.attr('alt', user.rank+" (GAIA)");
@@ -80,30 +69,40 @@ $( document ).ready(function() {
         
         $("#date").text(days+' jours');
         
+        if( !reply.success ) {
+            console.log('new');
+            $("#welcome").show('slow');
+        } else {
+            console.log('old');
+            $( "#butReport" ).click();
+        }
+        
     }
     
     function report () {
         console.log( 'report' );
-        CRUD.getInfo( {X:user.X, Y:user.Y}, initReport );
+        CRUD.call( {X:user.X, Y:user.Y}, 'getCellInfo', initReport );
     }
     
     function map () {
         console.log( 'map' );
-        CRUD.getMove( {login:user.login}, initUserMove );
+        CRUD.call( {login:user.login}, 'getUserMove', initUserMove );
     }
     
-    function initUserMove (data) {
+    function initUserMove (reply) {
         
         console.log('Retour de User Move');
-        console.log(data);
+        console.log(reply);
         
-        for (var i=0, pos=[] ; i < data.length ; i++) {
+        for (var i=0, pos=[] ; i < reply.data.length ; i++) {
             pos[i] = {};
-            pos[i].X = data[i].X;
-            pos[i].Y = data[i].Y;
-            pos[i].time = data[i].time;
+            pos[i].X = reply.data[i].X;
+            pos[i].Y = reply.data[i].Y;
             
-            $("#position").append('<li>'+pos[i].time+'</li>')
+            var time = new Date(reply.data[i].time.split(' ').join('T'))
+            pos[i].time = time.toLocaleString();
+            
+            $("#position").append('<li>'+'['+pos[i].X+']['+pos[i].Y+']<span>'+pos[i].time+'</span></li>')
             
         }
         
@@ -111,55 +110,74 @@ $( document ).ready(function() {
             
     }
     
-    function initReport (data) {
-        
-        
-        // picture
-        //$("#space").show();
+    function initReport (reply) {
         
         console.log('Retour de get Info');
-        console.log(data);
+        console.log(reply);
+            
+        $("#space p.submit input[type='submit']")
+            .val("Modifier ou valider ce secteur")
+            .unbind("click")
+            .bind("click", (function (evt) {
+                evt.preventDefault();
+                var cell = {
+                    mineral: $("#mineral").val(),
+                    missile: $("#missile").val(),
+                    antiradar: $("#antiradar").val(),
+                    bonusp: $("#bonusp").val(),
+                    X: user.X,
+                    Y: user.Y,
+                    user: user.login
+                };
+                CRUD.call( cell, 'setCellInfo', initReport );
+            }));
         
-        /*for (var i=0, pos=[] ; i < data.length ; i++) {
-            pos[i] = {};
-            pos[i].X = data[i].X;
-            pos[i].Y = data[i].Y;
-            pos[i].time = data[i].time;
+        if( reply.data.length > 0 ) {
             
-            $("#position").append('<li>'+pos[i].time+'</li>')
+            $("#mineral").val(reply.data[0].mineral);
+            $("#missile").val(reply.data[0].missile);
+            if( reply.data[0].antiradar )
+                $("#antiradar").attr('checked', true);
+            $("#bonusp").val(reply.data[0].bonus);
+            $("#X").val(user.X);
+            $("#Y").val(user.Y);
+            $("#user").val(user.login);
             
+            $("#space p.submit input[type='submit']").val("Modifier ou valider ce secteur");
+            
+        } else {
+            $("#space p.submit input[type='submit']").val("Ajouter ce secteur");
         }
-        
-        console.log(pos);*/
             
     }
+    
+    /*
+    
+    */
     
 });
 
 var CRUD = {
     
-    isUserExist: function( vars, success, success2, fail, always ) {
-        vars.action = 'user_exist';
+    call: function( vars, action, success ) {
+        vars.action = action;
         $.getJSON( debug ? 'crud.php' : 'http://a4edfd900b.url-de-test.ws/gaia/crud.php', vars, success )
-        .done(success2)
-        .fail(fail)
-        .always(always);
+        .fail(CRUD.fail)
     },
     
-    getMove: function( vars, success, success2, fail, always ) {
-        vars.action = 'user_move';
-        $.getJSON( debug ? 'crud.php' : 'http://a4edfd900b.url-de-test.ws/gaia/crud.php', vars, success )
-        .done(success2)
-        .fail(fail)
-        .always(always);
+    success2: function reportReturn (data) {
+        console.log('success2');
+        console.log(data);
     },
     
-    getInfo: function( vars, success, success2, fail, always ) {
-        vars.action = 'get_info';
-        $.getJSON( debug ? 'crud.php' : 'http://a4edfd900b.url-de-test.ws/gaia/crud.php', vars, success )
-        .done(success2)
-        .fail(fail)
-        .always(always);
+    fail: function reportReturn (data) {
+        console.log('fail');
+        console.log(data);
+    },
+    
+    always: function reportReturn (data) {
+        console.log('always');
+        console.log(data);
     }
     
 };

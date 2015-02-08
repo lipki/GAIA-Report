@@ -11,7 +11,7 @@
             <div class="card">
 
                 <div class="name" >
-                    <img alt="1 (GAIA)" src="img/rank12.png" title="">
+                    <img id="rank" alt="1 (GAIA)" src="img/rank1.png" title="">
                     <a href="#" class="tid_user">lipki</a>
                 </div>
                 <div class="coord"><em>Pos :</em> <span id="coord">[0][0]</span></div>
@@ -21,7 +21,8 @@
             
             <menu class="card">
                 <ul>
-                    <li><a class="butmenu" id="butReport" href="#report">Signaler</a></li><!--
+                    <li><a class="butmenu" id="butRefresh" href=".">Rafraichir</a></li><!--
+                 --><li><a class="butmenu" id="butReport" href="#report">Signaler</a></li><!--
                  --><li><a class="butmenu" id="butMap" href="#map">Carte</a></li><!--
                  --><li><a class="butmenu" id="butHelp" href="#help">A propos</a></li>
                 </ul>
@@ -44,30 +45,30 @@
             <section id="report" class="toggle_container">
                 <div id="space" class="zone">
                     <div class="picture"></div>
-                    <form method="post" action="form.php">
+                    <form method="post" action="">
                         <p>
                             <label for="mineral">Minerais</label>
-                            <span class="inputNumber"><input type="number" id="mineral" name="mineral" value="200" min="0" max="9999" required=""></span>
-                            <span class="min">10</span>
-                            <span class="max">800</span>
+                            <span class="inputNumber"><input type="number" id="mineral" name="mineral" value="" min="0" max="9999" required=""></span>
+                            <span class="min"></span>
+                            <span class="max"></span>
                         </p>
                         <p>
                             <label for="missile">Missile</label>
-                            <span class="inputNumber"><input type="number" id="missile" name="missile" value="5" min="0" max="99" required=""></span>
-                            <span class="min">4</span>
-                            <span class="max">9</span>
+                            <span class="inputNumber"><input type="number" id="missile" name="missile" value="" min="0" max="99" required=""></span>
+                            <span class="min"></span>
+                            <span class="max"></span>
                         </p>
                         <p>
-                            <input type="checkbox" id="antiradar" name="antiradar" checked="" required="">
+                            <input type="checkbox" id="antiradar" name="antiradar">
                             <label for="antiradar">Anti-radar</label>
-                            <span class="uncheck">10%</span>
-                            <span class="check">90%</span>
+                            <span class="uncheck"></span>
+                            <span class="check"></span>
                         </p>
                         <p>
                             <label for="bonusp">Bonus P</label>
-                            <span class="inputNumber"><input type="number" id="bonusp" name="bonusp" value="1" min="0" max="9" required=""></span>
-                            <span class="min">0</span>
-                            <span class="max">2</span>
+                            <span class="inputNumber"><input type="number" id="bonusp" name="bonusp" value="" min="0" max="9" required=""></span>
+                            <span class="min"></span>
+                            <span class="max"></span>
                         </p>
                         <p class="submit">
                             <br>
@@ -86,6 +87,7 @@
             <section id="map" class="toggle_container">
                 <ul id="position">
                 </ul>
+                <div id="view"></div>
             </section>
             
             <section id="help" class="toggle_container">

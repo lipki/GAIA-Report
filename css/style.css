@@ -14,7 +14,7 @@ body {
 }
 
 #gaia {
-    background: none repeat scroll 0% 0% #2F385D;
+    background: #2F385D;
     width: 473px;
     height: 385px;
     position: relative;
@@ -24,31 +24,6 @@ a {
     color: #F5A245;
     font-variant: small-caps;
     font-weight: bold;
-}
-
-a.button, input.button {
-    display: block;
-    color: #FFF;
-    width: 118px;
-    height: 19px;
-    margin-top: 3px;
-    margin-bottom: 3px;
-    text-align: center;
-    text-transform: uppercase;
-    font-variant: small-caps;
-    font-size: 7.5pt;
-    font-weight: bold;
-    border: 0px none;
-    cursor: pointer;
-    background-image: url("http://alphabounce.com/img/design/button.gif");
-    background-repeat: no-repeat;
-}
-
-a.button {
-    height: 16px;
-    padding-top: 3px;
-    text-align: center;
-    text-decoration: none;
 }
 
 .card {
@@ -209,16 +184,15 @@ blockquote p {
     border-width: 0 0 1px;
     background-image: linear-gradient(#2A3250, #232A43 87%, #090A10);
     margin: 0;
-	display: none;
 }
 #report #space .picture {
-	background-image: url(img/mineral.png);
+	background-image: url(../img/mineral.png);
 }
 #report #ground .picture {
-	background-image: url(img/planets/Douriv.png);
+	background-image: url(../img/planets/Douriv.png);
 }
 #report #merchant .picture {
-	background-image: url(img/marchand.png);
+	background-image: url(../img/marchand.png);
 }
 
 #report .zone .picture {
@@ -247,7 +221,7 @@ blockquote p {
 }
 
 #report form p.submit {
-    width: 200px;
+    width: 224px;
 }
 
 #report form label {
@@ -287,6 +261,12 @@ blockquote p {
     font-size: 11px;
     font-weight: bold;
     line-height: 18px;
+}
+
+#report form p.submit input {
+	float: right;
+	width: auto;
+	padding: 0 10px;
 }
 
 #report form input:focus {
@@ -391,6 +371,68 @@ blockquote p {
     margin-top: 2px;
 	height: 12px;
 }
+.uncheck, .check {
+    width: 53%;
+    padding-left: 30px;
+}
 .max, .check {
     margin: 0 0 2px 0;
+}
+
+
+/* map */
+
+#view {
+    height: 344px;
+    background: url("../img/stars.png");
+    width: 344px;
+    position: absolute;
+    right: 0px;
+    top: -2px;
+    background-color: #1A183C;
+}
+
+#position {
+    background: rgb(0, 0, 0);
+    position: absolute;
+    top: -2px;
+    left: 0px;
+    width: 129px;
+    height: 344px;
+    overflow-y: scroll;
+    padding: 10px;
+    list-style: outside none none;
+    box-sizing: border-box;
+}
+
+#position li {
+    background: rgb(71, 86, 130);
+    border: 1px solid rgb(164, 179, 208);
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 2px;
+    font-weight: bold;
+	cursor: pointer;
+}
+
+#position li span {
+    display: none;
+    position: absolute;
+    background: rgb(186, 250, 100);
+    border: 1px solid #A4B3D0;
+    width: 90px;
+    z-index: 10;
+    padding: 2px;
+    left: 10px;
+    font-size: 13px;
+    margin-top: 5px;
+}
+
+#position li:hover {
+    background: rgb(186, 250, 100);
+    color: #54653E;
+}
+
+#position li:hover span {
+    display: block;
 }
